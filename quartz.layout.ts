@@ -10,7 +10,11 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Component.PageTitle(), // This will display your site title (Chaotic's Garden)
   ],
-  afterBody: [],
+  // >>> PUT BACKLINKS AND GRAPH HERE FOR ALL PAGES <<<
+  afterBody: [
+    Component.Backlinks(), // All backlinks will now appear after the main content body on ALL pages
+    Component.Graph(),     // Graph will appear after backlinks on ALL pages
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -31,8 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    // We moved PageTitle to the main header, so remove it from the sidebar
-    // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -47,24 +49,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()), // Keep TOC on right for desktop
-    // We're moving Graph and Backlinks to the bottom
-    // Component.Graph(),
-    // Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents()), // Keep TOC on right for desktop if desired
+    // REMOVED Backlinks and Graph from here as they are now in sharedPageComponents.afterBody
   ],
-  // Adding Backlinks and Graph to afterBody to put them at the bottom
-  afterBody: [
-    Component.Backlinks(), // All backlinks will now appear after the main content body
-    Component.Graph(),     // Graph will appear after backlinks
-  ],
+  // 'afterBody' is not a valid property for PageLayout, so it's removed
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    // We moved PageTitle to the main header, so remove it from the sidebar
-    // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -77,9 +71,6 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [], // For list pages, we don't need a right sidebar typically
-  afterBody: [
-    Component.Backlinks(), // Backlinks for list pages (if applicable)
-    Component.Graph(),     // Graph for list pages (if applicable)
-  ],
+  right: [], // For list pages, we typically don't need a right sidebar unless you want one
+  // 'afterBody' is not a valid property for PageLayout, so it's removed
 }
