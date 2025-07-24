@@ -1,0 +1,1 @@
+Although some help has been taken from psycho coder sort of guy, i don't even understand the basics of it, but I have my digital garden up and running.
