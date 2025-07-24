@@ -6,14 +6,12 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  // Adding a header component to hold the logo and potentially the title
   header: [
-    Component.PageTitle(), // This will display your site title (Chaotic's Garden)
+    Component.PageTitle(),
   ],
-  // >>> PUT BACKLINKS AND GRAPH HERE FOR ALL PAGES <<<
   afterBody: [
-    Component.Backlinks(), // All backlinks will now appear after the main content body on ALL pages
-    Component.Graph(),     // Graph will appear after backlinks on ALL pages
+    Component.Backlinks(),
+    Component.Graph(),
   ],
   footer: Component.Footer({
     links: {
@@ -46,13 +44,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    // >>> REMOVE THIS LINE <<<
+    // Component.Explorer(),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()), // Keep TOC on right for desktop if desired
-    // REMOVED Backlinks and Graph from here as they are now in sharedPageComponents.afterBody
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
-  // 'afterBody' is not a valid property for PageLayout, so it's removed
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -69,8 +66,8 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    // >>> REMOVE THIS LINE <<<
+    // Component.Explorer(),
   ],
-  right: [], // For list pages, we typically don't need a right sidebar unless you want one
-  // 'afterBody' is not a valid property for PageLayout, so it's removed
+  right: [],
 }
