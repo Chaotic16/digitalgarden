@@ -1,8 +1,5 @@
 ---
 title: Welcome to Quartz
 ---
-Don't make any changes here. 
+Welcome to my Digital Garden 
 
-And don't remove this from here also. 
-
-This is the most important page sort of.
