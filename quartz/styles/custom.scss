@@ -29,15 +29,15 @@
 .page-title::before {
     content: ""; /* Needed to insert an element before the title text */
     display: block; /* Make it a block element */
-    width: 60px; /* Adjust logo width - Made it slightly larger */
-    height: 60px; /* Adjust logo height - Made it slightly larger */
+    width: 80px; /* Adjust logo width - Made it slightly larger */
+    height: 80px; /* Adjust logo height - Made it slightly larger */
     /* IMPORTANT: Quartz uses a static folder, so your path should be relative to it. */
     /* If 'tree.png' is directly in your 'quartz/static/' folder, this path is correct: */
     background-image: url("/static/tree.png"); /* <<< THIS IS THE CRUCIAL CHANGE! */
     background-size: contain; /* Scale image to fit */
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 50%; /* Make it circular, like Maggie Appleton's */
+    border-radius: 10%; /* Make it circular, like Maggie Appleton's */
     flex-shrink: 0; /* Prevent the logo from shrinking */
     margin-bottom: 5px; /* Add some space below the logo before the title */
 }
