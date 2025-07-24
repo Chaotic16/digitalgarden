@@ -1,10 +1,15 @@
+// quartz.layout.ts
+
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  // Adding a header component to hold the logo and potentially the title
+  header: [
+    Component.PageTitle(), // This will display your site title (Chaotic's Garden)
+  ],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -26,7 +31,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
+    // We moved PageTitle to the main header, so remove it from the sidebar
+    // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -41,9 +47,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents()), // Keep TOC on right for desktop
+    // We're moving Graph and Backlinks to the bottom
+    // Component.Graph(),
+    // Component.Backlinks(),
+  ],
+  // Adding Backlinks and Graph to afterBody to put them at the bottom
+  afterBody: [
+    Component.Backlinks(), // All backlinks will now appear after the main content body
+    Component.Graph(),     // Graph will appear after backlinks
   ],
 }
 
@@ -51,7 +63,8 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
+    // We moved PageTitle to the main header, so remove it from the sidebar
+    // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -64,5 +77,9 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [], // For list pages, we don't need a right sidebar typically
+  afterBody: [
+    Component.Backlinks(), // Backlinks for list pages (if applicable)
+    Component.Graph(),     // Graph for list pages (if applicable)
+  ],
 }

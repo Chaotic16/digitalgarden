@@ -1,3 +1,5 @@
+// quartz.config.ts
+
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -16,16 +18,17 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://pranjalsaxena.substack.com/",
+    // >>> IMPORTANT: CHANGE THIS TO YOUR ACTUAL GITHUB PAGES URL <<<
+    baseUrl: "https://Chaotic16.github.io/digitalgarden/", // <--- CONFIRM THIS IS YOUR URL
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Montserrat", // Set headings to Montserrat
+        body: "Roboto",       // Set body text to Roboto
+        code: "IBM Plex Mono", // Keep your code font
       },
       colors: {
         lightMode: {
@@ -53,45 +56,51 @@ const config: QuartzConfig = {
       },
     },
   },
-  plugins: {
-    transformers: [
-      Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
-      }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
-      Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
-    ],
-    filters: [Plugin.RemoveDrafts()],
-    emitters: [
-      Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
-      Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
-      Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: true,
-      }),
-      Plugin.Assets(),
-      Plugin.Static(),
-      Plugin.Favicon(),
-      Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
-    ],
-  },
+  plugins: [
+    Plugin.FrontMatter(),
+    Plugin.CreatedModifiedDate({
+      priority: ["frontmatter", "git", "filesystem"],
+    }),
+    Plugin.SyntaxHighlighting({
+      theme: {
+        light: "github-light",
+        dark: "github-dark",
+      },
+      keepBackground: false,
+    }),
+    Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+    Plugin.GitHubFlavoredMarkdown(),
+    Plugin.TableOfContents(),
+    Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+    Plugin.Description(),
+    Plugin.Latex({ renderEngine: "katex" }),
+    Plugin.RemoveDrafts(),
+    Plugin.AliasRedirects(),
+    Plugin.ComponentResources(),
+    Plugin.ContentPage(),
+    Plugin.FolderPage({
+      // Sort option for notes within folders
+      sort: [{ key: "title", order: "asc" }], // Sort by title alphabetically
+    }),
+    Plugin.TagPage({
+      // Sort option for notes within tag pages
+      sort: [{ key: "title", order: "asc" }], // Sort by title alphabetically
+    }),
+    Plugin.ContentIndex({
+      enableSiteMap: true,
+      enableRSS: true,
+      // Sort option for the main site index (e.g., your homepage if it lists notes)
+      sort: [
+        { key: "modified", order: "desc" }, // Sort by last modified date, newest first
+        { key: "title", order: "asc" },     // Then by title alphabetically
+      ],
+    }),
+    Plugin.Assets(),
+    Plugin.Static(),
+    Plugin.Favicon(),
+    Plugin.NotFoundPage(),
+    Plugin.CustomOgImages(),
+  ],
 }
 
 export default config

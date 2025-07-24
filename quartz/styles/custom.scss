@@ -1,3 +1,108 @@
-@use "./base.scss";
+/* quartz/styles/custom.css */
 
-// put your custom CSS here!
+/* 1. Logo on the Top Left Corner */
+/*
+  The `Component.PageTitle()` component already puts your site title (Chaotic's Garden)
+  on the top left. We will modify its styling to include an image.
+  First, make sure your logo is in `static/my-logo.png` (or whatever you named it).
+*/
+
+.page-title {
+  display: flex; /* Makes it a flex container */
+  align-items: center; /* Vertically aligns items */
+  gap: 10px; /* Space between logo and text */
+}
+
+.page-title a {
+  text-decoration: none; /* Remove underline from the title link */
+  color: var(--dark); /* Use your theme's dark color for the text */
+  font-size: 1.5em; /* Adjust initial size of the text part of the title */
+  font-weight: bold;
+}
+
+.page-title::before {
+  content: ""; /* Needed to insert an element before the title text */
+  display: block; /* Make it a block element */
+  width: 40px; /* Adjust logo width */
+  height: 40px; /* Adjust logo height */
+  background-image: url("/static/my-logo.png"); /* <<< IMPORTANT: Update this path to your logo! */
+  background-size: contain; /* Scale image to fit */
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50%; /* Make it circular, like Maggie Appleton's */
+  flex-shrink: 0; /* Prevent the logo from shrinking */
+}
+
+/* 2. Headings Bigger */
+/* Target the main article title (h1) and subheadings (h2, h3, etc.) */
+
+.page-header h1 {
+  font-size: 3.5em; /* Main article title */
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  font-weight: 700; /* Bold */
+}
+
+.content h2 {
+  font-size: 2.2em; /* Second level heading */
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+}
+
+.content h3 {
+  font-size: 1.8em; /* Third level heading */
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+}
+
+.content h4 {
+  font-size: 1.4em; /* Fourth level heading */
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+/* 3. Backlinks and Graph Sections at the Bottom */
+/* Basic styling for these sections when they appear in afterBody */
+
+.backlinks-container {
+  margin-top: 4em; /* Space above backlinks */
+  border-top: 1px solid var(--lightgray); /* A subtle line above */
+  padding-top: 2em;
+}
+
+.backlinks-container h2,
+.graph-container h2 {
+  font-size: 1.8em; /* Adjust backlink/graph heading size */
+  margin-bottom: 1em;
+  color: var(--dark); /* Ensure heading color is readable */
+}
+
+.backlinks-container ul {
+  list-style: none; /* Remove bullets from backlink list */
+  padding-left: 0;
+}
+
+.backlinks-container li {
+  margin-bottom: 0.5em;
+}
+
+.graph-container {
+    margin-top: 4em; /* Space above the graph */
+    border-top: 1px solid var(--lightgray); /* A subtle line above graph */
+    padding-top: 2em;
+    // If you want the graph to be on the left below content, you might need
+    // more complex flexbox/grid adjustments depending on the overall layout.
+    // For now, it will simply appear centered below the article content.
+}
+
+/* Optional: Adjust main content width for a wider layout if desired */
+.page-header, .content {
+  max-width: 800px; /* Adjust content width as you prefer */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Ensure popovers are visible (can sometimes be an issue with custom CSS) */
+.popover-hint {
+    z-index: 1000;
+}
