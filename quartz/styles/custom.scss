@@ -33,7 +33,7 @@
     height: 80px; /* Adjust logo height - Made it slightly larger */
     /* IMPORTANT: Quartz uses a static folder, so your path should be relative to it. */
     /* If 'tree.png' is directly in your 'quartz/static/' folder, this path is correct: */
-    background-image: url("/static/tree.png"); /* <<< THIS IS THE CRUCIAL CHANGE! */
+    background-image: url("/quartz/static/tree.png"); /* <<< THIS IS THE CRUCIAL CHANGE! */
     background-size: contain; /* Scale image to fit */
     background-repeat: no-repeat;
     background-position: center;
