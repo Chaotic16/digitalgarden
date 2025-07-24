@@ -1,89 +1,98 @@
 /* quartz/styles/custom.css */
 
-/* 1. Logo on the Top Left Corner */
-/*
-  The `Component.PageTitle()` component already puts your site title (Chaotic's Garden)
-  on the top left. We will modify its styling to include an image.
-  First, make sure your logo is in `static/my-logo.png` (or whatever you named it).
+/* 1. Logo and Title Placement:
+    - Moving the title below the logo.
+    - Adjusting the overall header structure for this.
 */
 
+/* We need to re-think the .page-title a bit if we want the title *below* the logo.
+   Currently, .page-title creates a flex container for the logo (::before) and the text (a).
+   To stack them, we'll modify .page-title to use flex-direction: column. */
+
 .page-title {
-  display: flex; /* Makes it a flex container */
-  align-items: center; /* Vertically aligns items */
-  gap: 10px; /* Space between logo and text */
+    display: flex; /* Keep it a flex container */
+    flex-direction: column; /* NEW: Stack items vertically */
+    align-items: center; /* NEW: Center items horizontally when stacked */
+    gap: 5px; /* Adjust gap between logo and text */
+    /* Remove original text-align: center if it was elsewhere, as align-items: center handles it */
 }
 
 .page-title a {
-  text-decoration: none; /* Remove underline from the title link */
-  color: var(--dark); /* Use your theme's dark color for the text */
-  font-size: 1.5em; /* Adjust initial size of the text part of the title */
-  font-weight: bold;
+    text-decoration: none; /* Remove underline from the title link */
+    color: var(--dark); /* Use your theme's dark color for the text */
+    font-size: 1.5em; /* Adjust initial size of the text part of the title */
+    font-weight: bold;
+    text-align: center; /* Ensure the text itself is centered */
+    margin-top: 5px; /* Add a little space between logo and text if needed */
 }
 
 .page-title::before {
-  content: ""; /* Needed to insert an element before the title text */
-  display: block; /* Make it a block element */
-  width: 40px; /* Adjust logo width */
-  height: 40px; /* Adjust logo height */
-  background-image: url("/static/my-logo.pngD:\01 Synced Files\37 Chaotic Digital Garden\digital garden\quartz\static\tree.png"); /* <<< IMPORTANT: Update this path to your logo! */
-  background-size: contain; /* Scale image to fit */
-  background-repeat: no-repeat;
-  background-position: center;
-  border-radius: 50%; /* Make it circular, like Maggie Appleton's */
-  flex-shrink: 0; /* Prevent the logo from shrinking */
+    content: ""; /* Needed to insert an element before the title text */
+    display: block; /* Make it a block element */
+    width: 60px; /* Adjust logo width - Made it slightly larger */
+    height: 60px; /* Adjust logo height - Made it slightly larger */
+    /* IMPORTANT: Quartz uses a static folder, so your path should be relative to it. */
+    /* If 'tree.png' is directly in your 'quartz/static/' folder, this path is correct: */
+    background-image: url("D:\01 Synced Files\37 Chaotic Digital Garden\digital garden\quartz\static\tree.png"); /* <<< IMPORTANT: Corrected path for Quartz */
+    background-size: contain; /* Scale image to fit */
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%; /* Make it circular, like Maggie Appleton's */
+    flex-shrink: 0; /* Prevent the logo from shrinking */
+    margin-bottom: 5px; /* Add some space below the logo before the title */
 }
 
-/* 2. Headings Bigger */
+/* 2. Headings Bigger (No changes needed here as per your request, but kept for context) */
 /* Target the main article title (h1) and subheadings (h2, h3, etc.) */
 
 .page-header h1 {
-  font-size: 3.5em; /* Main article title */
-  line-height: 1.2;
-  margin-bottom: 0.5em;
-  font-weight: 700; /* Bold */
+    font-size: 3.5em; /* Main article title */
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    font-weight: 700; /* Bold */
 }
 
 .content h2 {
-  font-size: 2.2em; /* Second level heading */
-  margin-top: 1.5em;
-  margin-bottom: 0.8em;
+    font-size: 2.2em; /* Second level heading */
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
 }
 
 .content h3 {
-  font-size: 1.8em; /* Third level heading */
-  margin-top: 1.2em;
-  margin-bottom: 0.6em;
+    font-size: 1.8em; /* Third level heading */
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
 }
 
 .content h4 {
-  font-size: 1.4em; /* Fourth level heading */
-  margin-top: 1em;
-  margin-bottom: 0.5em;
+    font-size: 1.4em; /* Fourth level heading */
+    margin-top: 1em;
+    margin-bottom: 0.5em;
 }
 
-/* 3. Backlinks and Graph Sections at the Bottom */
+/* 3. Backlinks and Graph Sections at the Bottom (No changes needed here) */
 /* Basic styling for these sections when they appear in afterBody */
 
 .backlinks-container {
-  margin-top: 4em; /* Space above backlinks */
-  border-top: 1px solid var(--lightgray); /* A subtle line above */
-  padding-top: 2em;
+    margin-top: 4em; /* Space above backlinks */
+    border-top: 1px solid var(--lightgray); /* A subtle line above */
+    padding-top: 2em;
 }
 
 .backlinks-container h2,
 .graph-container h2 {
-  font-size: 1.8em; /* Adjust backlink/graph heading size */
-  margin-bottom: 1em;
-  color: var(--dark); /* Ensure heading color is readable */
+    font-size: 1.8em; /* Adjust backlink/graph heading size */
+    margin-bottom: 1em;
+    color: var(--dark); /* Ensure heading color is readable */
 }
 
 .backlinks-container ul {
-  list-style: none; /* Remove bullets from backlink list */
-  padding-left: 0;
+    list-style: none; /* Remove bullets from backlink list */
+    padding-left: 0;
 }
 
 .backlinks-container li {
-  margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 .graph-container {
@@ -95,12 +104,35 @@
     // For now, it will simply appear centered below the article content.
 }
 
-/* Optional: Adjust main content width for a wider layout if desired */
-.page-header, .content {
-  max-width: 800px; /* Adjust content width as you prefer */
-  margin-left: auto;
-  margin-right: auto;
+/* 4. Box Around Content & Visible Text Size */
+
+/* Quartz's main content is usually within a `.content` class.
+   We'll apply the box styles here. */
+.content {
+    max-width: 800px; /* Keep your existing max-width for content */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px; /* NEW: Add padding inside the box */
+    border: 1px solid var(--border); /* NEW: A subtle border using Quartz's variable */
+    border-radius: 8px; /* NEW: Slightly rounded corners */
+    background-color: var(--background); /* NEW: Use Quartz's background color */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05); /* NEW: A subtle shadow */
 }
+
+/* Target all paragraphs within the content area to increase font size */
+.content p {
+    font-size: 1.1em; /* NEW: Made text more visible (1.1em is a good start) */
+    line-height: 1.7; /* NEW: Improved line spacing for readability */
+    margin-bottom: 1em; /* Ensure consistent paragraph spacing */
+}
+
+/* Ensure list items, blockquotes, etc., also have a readable font size */
+.content li,
+.content blockquote,
+.content code { /* If you have inline code or code blocks */
+    font-size: 1.1em; /* Apply similar size to other text elements */
+}
+
 
 /* Ensure popovers are visible (can sometimes be an issue with custom CSS) */
 .popover-hint {

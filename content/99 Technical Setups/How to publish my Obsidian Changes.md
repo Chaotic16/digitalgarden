@@ -7,3 +7,12 @@ Its an easy step.
 5. Type git push 
 
 You will see all of this in your GitHub action repository tab and you will enjoy it. 
+
+
+Dataview is here baby
+```dataview
+LIST
+FROM "content"
+SORT file.ctime DESC
+```
+
