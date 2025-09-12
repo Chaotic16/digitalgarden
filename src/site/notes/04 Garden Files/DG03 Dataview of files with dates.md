@@ -14,7 +14,6 @@
 | [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]]       | September 12, 2025 | September 12, 2025 |
 | [[04 Garden Files/DG05 Start here\|DG05 Start here]]                                           | September 12, 2025 | September 12, 2025 |
 | [[04 Garden Files/DG02 Tasks List of my Digital Garden\|DG02 Tasks List of my Digital Garden]] | September 12, 2025 | September 12, 2025 |
-| [[04 Garden Files/Trying the cards snippet\|Trying the cards snippet]]                         | September 12, 2025 | September 12, 2025 |
 | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                          | September 12, 2025 | September 12, 2025 |
 | [[05 Garden Organizing/Index of Categories\|Index of Categories]]                              | September 12, 2025 | September 12, 2025 |
 
