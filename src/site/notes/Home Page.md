@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"2025-11-12"}
 ---
 
 This is the home page of my digital garden
