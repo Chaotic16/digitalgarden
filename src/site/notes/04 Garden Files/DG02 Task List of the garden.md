@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T13:19:47.474+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T13:40:50.115+05:30"}
 ---
 
 
@@ -8,6 +8,7 @@
 
   - [x] Title needs to be shown of the files that I add
   - [ ] Planted and Last Tended as properties. - Will work on it afterwards
+  - [ ] Working on this using CSS human date idea
   - [x] Finish Wander loots full video.  
   - [x] Instead of netifly go the Cloudfare Route coz of deployment limits. I was exceeding credits at netifly.
   - [x] It says here I can add dataview queries and publish those pages. So that I will try [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]]
