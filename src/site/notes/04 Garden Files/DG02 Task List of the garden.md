@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","tags":["digitalgarden"],"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T17:41:38.387+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T18:05:02.534+05:30"}
 ---
 
+🕸️ [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]
 
 
 ### Here's a Task list

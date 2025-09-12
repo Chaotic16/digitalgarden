@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-03-dataview-of-files-with-dates/","created":"2025-09-12T11:39:13.307+05:30","updated":"2025-09-12T12:12:19.427+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-03-dataview-of-files-with-dates/","created":"2025-09-12T11:39:13.307+05:30","updated":"2025-09-12T18:05:52.494+05:30"}
 ---
 
+🕸️[[05 Garden Organizing/Digitalgarden\|Digitalgarden]]
 
 
 
@@ -12,7 +13,8 @@
 | [[04 Garden Files/DG02 Task List of the garden\|DG02 Task List of the garden]]           | September 12, 2025 | September 12, 2025 |
 | [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]] | September 12, 2025 | September 12, 2025 |
 | [[04 Garden Files/DG05 Start here\|DG05 Start here]]                                     | September 12, 2025 | September 12, 2025 |
-| [[Digitalgarden\|Digitalgarden]]                                                         | September 12, 2025 | September 12, 2025 |
+| [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                    | September 12, 2025 | September 12, 2025 |
+| [[05 Garden Organizing/Index of Categories\|Index of Categories]]                        | September 12, 2025 | September 12, 2025 |
 
 { .block-language-dataview}
 
