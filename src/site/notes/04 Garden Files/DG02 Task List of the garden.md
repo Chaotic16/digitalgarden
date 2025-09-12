@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","noteIcon":"","created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T12:22:31.184+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","noteIcon":"","created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T12:26:03.731+05:30"}
 ---
 
 
@@ -13,3 +13,4 @@
   - [x] Custom domain is not required, I am not spending a buck here.  This is my domain [[04 Garden Files/DG04 Chaotic's Garden Domain Name\|DG04 Chaotic's Garden Domain Name]] 
   - [ ] Style Settings waala plugin to get the same theme and view. Dark theme is better for this.
   - [ ] Add faveicon even though right now I don't understand it at all.
+  - [ ] Look into production deploys waala locha
