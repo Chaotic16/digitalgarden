@@ -1,5 +1,5 @@
 ---
-{"UniqueID":"DG02","Obsidian Cloze":false,"AnkiSourceNotes":false,"MicroCards":false,"MatchingPairs":false,"ConfusingMCQs":false,"Choosetheside":false,"Excali Image any?":false,"Quick Img Occ":false,"Lables Matchmaking":false,"tags":["digitalgarden"],"dg-publish":true,"dg-home":null,"categories":["[[Digitalgarden]]"],"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","dgPassFrontmatter":true,"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T17:35:25.348+05:30"}
+{"UniqueID":"DG02","Obsidian Cloze":false,"AnkiSourceNotes":false,"MicroCards":false,"MatchingPairs":false,"ConfusingMCQs":false,"Choosetheside":false,"Excali Image any?":false,"Quick Img Occ":false,"Lables Matchmaking":false,"tags":["digitalgarden"],"dg-publish":true,"dg-home":null,"categories":["[[Digitalgarden]]"],"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","dgPassFrontmatter":true,"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T17:40:31.979+05:30"}
 ---
 
 
@@ -21,3 +21,4 @@
   - [ ] Develop an amazing front page with previews and stuff.
   - [ ] Laalach buri balaa?
   - [ ] or should we go back to our old methods?
+  - [ ] Lets see if this works now. Please work.
