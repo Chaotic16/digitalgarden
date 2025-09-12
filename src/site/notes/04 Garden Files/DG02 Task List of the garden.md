@@ -1,5 +1,5 @@
 ---
-{"UniqueID":"DG02","Obsidian Cloze":false,"AnkiSourceNotes":false,"MicroCards":false,"MatchingPairs":false,"ConfusingMCQs":false,"Choosetheside":false,"Excali Image any?":false,"Quick Img Occ":false,"Lables Matchmaking":false,"tags":["digitalgarden"],"dg-publish":true,"dg-home":null,"categories":["[[Digitalgarden]]"],"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","dgPassFrontmatter":true,"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T17:40:31.979+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","tags":["digitalgarden"],"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T17:41:38.387+05:30"}
 ---
 
 
@@ -15,10 +15,7 @@
   - [x] Custom domain is not required, I am not spending a buck here.  This is my domain [[04 Garden Files/DG04 Chaotic's Garden Domain Name\|DG04 Chaotic's Garden Domain Name]] 
   - [x] Style Settings waala plugin to get the same theme and view. Dark theme is better for this.
   - [x] Add faveicon even though right now I don't understand it at all.
-  - [ ] Add specific front matter and make them as categories
+  - [ ] Add specific front matter and make them as categories. Turns out this is a lot technical thing. Maybe Wanderloots can help.
   - [ ] Think of bases and add them as cards. Ask Gemini about this.
   - [x] Check if Cloze <span class="cloze-span">works</span> in my Digital Garden? Cloze does not work in this.
   - [ ] Develop an amazing front page with previews and stuff.
-  - [ ] Laalach buri balaa?
-  - [ ] or should we go back to our old methods?
-  - [ ] Lets see if this works now. Please work.
