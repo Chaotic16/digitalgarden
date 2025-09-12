@@ -558,7 +558,23 @@ module.exports = function (eleventyConfig) {
       singleTags: ["link"],
     },
   });
-
+  
+  // ✅ Add categories collection
+  eleventyConfig.addCollection("categories", function (collection) {
+    let categories = {};
+    collection.getAll().forEach((item) => {
+      if (item.data.categories) {
+        item.data.categories.forEach((cat) => {
+          if (!categories[cat]) {
+            categories[cat] = [];
+          }
+          categories[cat].push(item);
+        });
+      }
+    });
+    return categories;
+  });
+  
   userEleventySetup(eleventyConfig);
 
   return {
