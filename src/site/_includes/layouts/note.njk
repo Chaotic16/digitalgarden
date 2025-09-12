@@ -40,6 +40,14 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
                     #{{tag}}
                   </a>
                 {% endif %}
+          {% if categories %}
+  <ul class="categories">
+    {% for cat in categories %}
+      <li><a href="/categories/{{ cat | slug }}/">{{ cat }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+        
               {% endfor %}
             </div>
           {% endif %}
