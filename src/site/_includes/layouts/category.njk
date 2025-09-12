@@ -1,0 +1,26 @@
+---
+title: Categories
+layout: base.njk
+permalink: /categories/index.html
+---
+
+<h1 class="page-title">Categories</h1>
+
+{% if collections.categories %}
+  <ul class="category-list">
+    {% for category, notes in collections.categories %}
+      <li class="category-item">
+        <h2 id="{{ category | slug }}">{{ category }}</h2>
+        <ul class="notes-list">
+          {% for note in notes %}
+            <li>
+              <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No categories found.</p>
+{% endif %}
