@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","tags":["#digitalgarden"],"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T16:34:47.988+05:30"}
+{"UniqueID":"DG02","Obsidian Cloze":false,"AnkiSourceNotes":false,"MicroCards":false,"MatchingPairs":false,"ConfusingMCQs":false,"Choosetheside":false,"Excali Image any?":false,"Quick Img Occ":false,"Lables Matchmaking":false,"tags":["digitalgarden"],"dg-publish":true,"dg-home":null,"categories":["[[Digitalgarden]]"],"permalink":"/04-garden-files/dg-02-task-list-of-the-garden/","dgPassFrontmatter":true,"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T16:55:35.825+05:30"}
 ---
 
 
@@ -17,5 +17,5 @@
   - [x] Add faveicon even though right now I don't understand it at all.
   - [ ] Add specific front matter and make them as categories
   - [ ] Think of bases and add them as cards. Ask Gemini about this.
-  - [ ] Check if Cloze <span class="cloze-span">works</span> in my Digital Garden? 
+  - [x] Check if Cloze <span class="cloze-span">works</span> in my Digital Garden? Cloze does not work in this.
   - [ ] Develop an amazing front page with previews and stuff
