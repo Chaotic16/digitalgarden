@@ -1,5 +1,5 @@
 ---
 title: Categories
-layout: category.njk
+layout: layouts/category.njk
 permalink: /categories/index.html
 ---
