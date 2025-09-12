@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-01-welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2025-09-12T10:28:39.968+05:30","updated":"2025-09-12T12:11:42.106+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-01-welcome/","tags":["gardenEntry"],"created":"2025-09-12T10:28:39.968+05:30","updated":"2025-09-12T12:11:42.106+05:30"}
 ---
 
 # Welcome to Chaotic's Digital Garden 🏠

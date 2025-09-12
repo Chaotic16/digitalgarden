@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-05-start-here/","noteIcon":"","created":"2025-09-12T11:36:56.964+05:30","updated":"2025-09-12T11:58:40.728+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-05-start-here/","created":"2025-09-12T11:36:56.964+05:30","updated":"2025-09-12T11:58:40.728+05:30"}
 ---
 
 
