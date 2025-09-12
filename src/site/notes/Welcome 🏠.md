@@ -9,6 +9,4 @@ This is the home page since it has dg home property and only one page gets to be
 
 So no other page will be
 
-
-
 Let's add one more page here [[Another seed that we sowed\|Another seed that we sowed]]
