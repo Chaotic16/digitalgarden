@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-garden-organizing/status-forests/","created":"2025-09-21T19:32:38.497+05:30","updated":"2025-09-21T21:56:15.869+05:30"}
+{"dg-publish":true,"permalink":"/05-garden-organizing/status-forests/","created":"2025-09-21T19:32:38.497+05:30","updated":"2025-09-21T23:59:28.641+05:30"}
 ---
 
 🕸️[[05 Garden Organizing/Index of Categories\|Index of Categories]]
@@ -29,7 +29,7 @@ Seedlings ---> Trees --- > Forests
 > [!SUCCESS]- Outgoing Links
 >  | File                                                                 | Linked File Modified          |
 > | -------------------------------------------------------------------- | ----------------------------- |
-> | [[05 Garden Organizing/Index of Categories\|Index of Categories]] | 10:06 PM - September 21, 2025 |
+> | [[05 Garden Organizing/Index of Categories\|Index of Categories]] | 11:59 PM - September 21, 2025 |
 > 
 { .block-language-dataview}
 

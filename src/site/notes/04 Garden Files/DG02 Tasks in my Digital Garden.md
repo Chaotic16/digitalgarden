@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-02-tasks-in-my-digital-garden/","created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-21T22:03:57.817+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-02-tasks-in-my-digital-garden/","created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-22T00:01:27.112+05:30"}
 ---
 
 
@@ -8,10 +8,12 @@
 
 
 
-### 21 September 2025 Tasks
+### Someday
 
 - [ ] Start working on TV Tropes for the beginning.
-- [ ] Develop a front page with important links and online content.  Homepage you know🏠
+### 21 September 2025 Tasks
+
+- [x] Develop a front page with important links and online content.  Homepage you know🏠
 - [x] Check if audios upload themselves. 
 ### 13 September 2025 Tasks
 
@@ -26,7 +28,7 @@
   - [x] Working on this using CSS human date idea. Made changes to publish.css. ChatGpt is giving me a hard time. So I asked gemini. Made changes in layouts notes njk file. Hope it works. 
   - [x] Finish Wander loots full video on setting up Digital Garden using Netifly, but now I use Cloudfare
   - [x] Instead of netifly went the Cloudfare route coz of deployment limits. I was exceeding credits at netifly.
-  - [x] It says here, I can add dataview queries and publish those pages.  So that I will try [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]] 
+  - [x] It says here, I can add dataview queries and publish those pages.  So that I will try [[04 Garden Files/DG03 Dataview of my ideas with dates\|DG03 Dataview of my ideas with dates]] 
   - [x] Convert dataview to cards style. Now I am overthinking things, it may work, but its too much. I have a page up and running, that should be the focus. 
   - [x] Custom domain is not required, I am not spending a buck here.  This is my domain [[04 Garden Files/DG04 Chaotic's Garden Domain Name\|DG04 Chaotic's Garden Domain Name]] 
   - [x] Style Settings plugin to get the same theme and view. Dark theme is better for this.
@@ -37,18 +39,19 @@
 
 
 > [!TIP]- Incoming Links
->  | File | Last Modified |
-> | ---- | ------------- |
+>  | File                                                                                            | Last Modified                 |
+> | ----------------------------------------------------------------------------------------------- | ----------------------------- |
+> | [[04 Garden Files/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 11:57 PM - September 21, 2025 |
 > 
 { .block-language-dataview}
 
 > [!SUCCESS]- Outgoing Links
->  | File                                                                                        | Linked File Modified          |
-> | ------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]] | 10:07 PM - September 21, 2025 |
-> | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                    | 10:06 PM - September 21, 2025 |
-> | [[04 Garden Files/DG04 Chaotic's Garden Domain Name\|DG04 Chaotic's Garden Domain Name]] | 10:04 PM - September 21, 2025 |
-> | [[05 Garden Organizing/Status - Seedlings🌱\|Status - Seedlings🌱]]                      | 9:56 PM - September 21, 2025  |
+>  | File                                                                                              | Linked File Modified          |
+> | ------------------------------------------------------------------------------------------------- | ----------------------------- |
+> | [[05 Garden Organizing/Status - Seedlings🌱\|Status - Seedlings🌱]]                            | 11:59 PM - September 21, 2025 |
+> | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                          | 11:59 PM - September 21, 2025 |
+> | [[04 Garden Files/DG03 Dataview of my ideas with dates\|DG03 Dataview of my ideas with dates]] | 10:07 PM - September 21, 2025 |
+> | [[04 Garden Files/DG04 Chaotic's Garden Domain Name\|DG04 Chaotic's Garden Domain Name]]       | 10:04 PM - September 21, 2025 |
 > 
 { .block-language-dataview}
 

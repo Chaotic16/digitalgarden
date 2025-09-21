@@ -72,7 +72,7 @@ Lastly, in 2025 I was introduced to [[Maggie Appleton\|Maggie Appleton]] and her
 > [!TIP]- Incoming Links
 >  | File                                                                                                          | Last Modified                 |
 > | ------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[04 Garden Files/DG01 Welcome 🏠\|DG01 Welcome 🏠]]                                                       | 10:17 PM - September 21, 2025 |
+> | [[04 Garden Files/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]               | 11:57 PM - September 21, 2025 |
 > | [[08 Chitthi Newsletter/02  All Notes/Zettelkasten Method\|Zettelkasten Method]]                           | 10:03 PM - September 21, 2025 |
 > | [[08 Chitthi Newsletter/02  All Notes/Plant your garden\|Plant your garden]]                               | 10:03 PM - September 21, 2025 |
 > | [[08 Chitthi Newsletter/02  All Notes/Being a fanatic of your own work\|Being a fanatic of your own work]] | 10:03 PM - September 21, 2025 |
@@ -83,8 +83,8 @@ Lastly, in 2025 I was introduced to [[Maggie Appleton\|Maggie Appleton]] and her
 > [!SUCCESS]- Outgoing Links
 >  | File                                                                                                                              | Linked File Modified          |
 > | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                                                          | 10:06 PM - September 21, 2025 |
-> | [[05 Garden Organizing/Status - Forests🧶\|Status - Forests🧶]]                                                                | 9:56 PM - September 21, 2025  |
+> | [[05 Garden Organizing/Status - Forests🧶\|Status - Forests🧶]]                                                                | 11:59 PM - September 21, 2025 |
+> | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                                                          | 11:59 PM - September 21, 2025 |
 > | [[08 Chitthi Newsletter/02  All Notes/Vicky Zhao\|Vicky Zhao]]                                                                 | 7:31 PM - September 20, 2025  |
 > | [[08 Chitthi Newsletter/02  All Notes/Pay attention to what you pay attention to\|Pay attention to what you pay attention to]] | 7:29 PM - September 20, 2025  |
 > | [[08 Chitthi Newsletter/02  All Notes/Keep Going\|Keep Going]]                                                                 | 7:28 PM - September 20, 2025  |

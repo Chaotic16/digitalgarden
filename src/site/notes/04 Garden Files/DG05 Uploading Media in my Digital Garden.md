@@ -42,8 +42,8 @@ The Soundgasm audios don't render on my digital garden, but that's completely ok
 > [!SUCCESS]- Outgoing Links
 >  | File                                                                   | Linked File Modified          |
 > | ---------------------------------------------------------------------- | ----------------------------- |
-> | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]               | 10:06 PM - September 21, 2025 |
-> | [[05 Garden Organizing/Status - Seedlings🌱\|Status - Seedlings🌱]] | 9:56 PM - September 21, 2025  |
+> | [[05 Garden Organizing/Status - Seedlings🌱\|Status - Seedlings🌱]] | 11:59 PM - September 21, 2025 |
+> | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]               | 11:59 PM - September 21, 2025 |
 > 
 { .block-language-dataview}
 

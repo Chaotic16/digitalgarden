@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-garden-organizing/status-trees/","created":"2025-09-21T21:54:31.699+05:30","updated":"2025-09-21T21:57:06.925+05:30"}
+{"dg-publish":true,"permalink":"/05-garden-organizing/status-trees/","created":"2025-09-21T21:54:31.699+05:30","updated":"2025-09-21T23:59:50.260+05:30"}
 ---
 
 🕸️[[05 Garden Organizing/Index of Categories\|Index of Categories]]
@@ -11,9 +11,9 @@ Seedlings ---> Trees --- > Forests
 
 
 
-| File                                                                                        | Tags |
-| ------------------------------------------------------------------------------------------- | ---- |
-| [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]] | \-   |
+| File                                                                                              | Tags |
+| ------------------------------------------------------------------------------------------------- | ---- |
+| [[04 Garden Files/DG03 Dataview of my ideas with dates\|DG03 Dataview of my ideas with dates]] | \-   |
 
 { .block-language-dataview}
 
