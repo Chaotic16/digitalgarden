@@ -558,8 +558,7 @@ module.exports = function (eleventyConfig) {
       singleTags: ["link"],
     },
   });
-  
- 
+
   userEleventySetup(eleventyConfig);
 
   return {
