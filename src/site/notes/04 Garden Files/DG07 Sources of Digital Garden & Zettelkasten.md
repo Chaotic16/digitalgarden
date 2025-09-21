@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-07-sources-of-digital-garden-and-zettelkasten/","created":"2025-09-20T17:57:05.474+05:30","updated":"2025-09-21T21:58:03.660+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-07-sources-of-digital-garden-and-zettelkasten/","created":"2025-09-20T17:57:05.474+05:30","updated":"2025-09-21T22:21:01.593+05:30"}
 ---
 
 🕸️[[05 Garden Organizing/Digitalgarden\|Digitalgarden]] 
@@ -58,7 +58,7 @@ And here's the great thing about Obsidian, it supports plugins. Enter Zsolt. Thi
 
 Lastly, in 2025 I was introduced to [[Maggie Appleton\|Maggie Appleton]] and her [Digital Garden ](https://maggieappleton.com/) and it inspired me to share my knowledge (collective and self contemplations) publicly. 
 
-<iframe src="https://maggieappleton.com/garden-history" width="900" height="900" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://maggieappleton.com/garden-history" width="720" height="900" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 > [!TIP]- Incoming Links

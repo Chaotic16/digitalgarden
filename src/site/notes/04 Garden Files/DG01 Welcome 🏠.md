@@ -48,8 +48,8 @@ Read more about the [[04 Garden Files/DG07 Sources of Digital Garden & Zettelkas
 > [!SUCCESS]- Outgoing Links
 >  | File                                                                                                                | Linked File Modified          |
 > | ------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+> | [[04 Garden Files/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]] | 10:21 PM - September 21, 2025 |
 > | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                                            | 10:06 PM - September 21, 2025 |
-> | [[04 Garden Files/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]] | 9:58 PM - September 21, 2025  |
 > | [[05 Garden Organizing/Status - Seedlings🌱\|Status - Seedlings🌱]]                                              | 9:56 PM - September 21, 2025  |
 > 
 { .block-language-dataview}
