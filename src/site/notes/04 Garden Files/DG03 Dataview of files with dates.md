@@ -23,7 +23,6 @@
 | [[05 Garden Organizing/Status - Forests🧶\|Status - Forests🧶]]                                                  | September 21, 2025 | September 21, 2025 |
 | [[05 Garden Organizing/Status - Seedlings🌱\|Status - Seedlings🌱]]                                              | September 21, 2025 | September 21, 2025 |
 | [[05 Garden Organizing/Status - Trees🌳🌲\|Status - Trees🌳🌲]]                                                  | September 21, 2025 | September 21, 2025 |
-| [[Excalidraw/Workflow of Digital Garden\|Workflow of Digital Garden]]                                            | September 21, 2025 | September 21, 2025 |
 
 { .block-language-dataview}
 
