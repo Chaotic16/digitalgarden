@@ -23,7 +23,7 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Incoming Links
 >  | File                                                                                                        | Last Modified                 |
 > | ----------------------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[04 Garden Files/DG06 Properties in my digital garden\|DG06 Properties in my digital garden]]           | 11:31 PM - September 21, 2025 |
+> | [[04 Garden Files/DG06 Properties in my digital garden\|DG06 Properties in my digital garden]]           | 11:41 PM - September 21, 2025 |
 > | [[04 Garden Files/DG01 Welcome 🏠\|DG01 Welcome 🏠]]                                                     | 10:17 PM - September 21, 2025 |
 > | [[04 Garden Files/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]] | 10:05 PM - September 21, 2025 |
 > | [[04 Garden Files/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                     | 10:03 PM - September 21, 2025 |
