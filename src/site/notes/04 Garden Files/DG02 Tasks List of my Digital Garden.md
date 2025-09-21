@@ -1,10 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-02-tasks-list-of-my-digital-garden/","created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-12T20:59:12.653+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-02-tasks-list-of-my-digital-garden/","created":"2025-09-12T10:54:54.483+05:30","updated":"2025-09-21T09:44:46.224+05:30"}
 ---
 
 
 🕸️ [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]
 
+
+
+### 21 September 2025 Tasks
+
+- [ ] Start working on TV Tropes for the beginning.
+- [ ] Develop a front page with important links and online content.  Homepage you know🏠
+- [ ] Check if audios upload themselves. 
+### 13 September 2025 Tasks
+
+- [x] Think of bases and try using them in your Obsidian. Bases don't work but Obsidian dataview works? 
+- [x] Make a Bitly link and look more into it? Looked into it, not impressed by it, I am happy the way things are with this link. Also links be hidden.
+- [x] Shift some files from other Obsidian Vaults here - Done. Cleaned. But will talk about it soon.
 
 ### 12 Sep 2025 Tasks List
 
@@ -21,9 +33,20 @@
   - [x] Add specific front matter and make them as categories. Turns out this is a lot technical thing. Sometimes, simplicity is the key, I made an emoji and sort of pseudo property method. It will get rich only when its used heavily
   - [x] Check if Cloze <span class="cloze-span">works</span> in my Digital Garden? Cloze does not work in this.
 
-### 13 September 2025 Tasks
 
-- [ ] Start working on TV Tropes for the beginning.
-- [ ] Develop an amazing front page with previews and stuff.
-- [ ] Think of bases and try using them in your Obsidian. No CSS Cards and stuff
+
+> [!TIP]- Incoming Links
+>  | File | Last Modified |
+> | ---- | ------------- |
+> 
+{ .block-language-dataview}
+
+> [!SUCCESS]- Outgoing Links
+>  | File                                                                                        | Linked File Modified         |
+> | ------------------------------------------------------------------------------------------- | ---------------------------- |
+> | [[04 Garden Files/DG04 Chaotic's Garden Domain Name\|DG04 Chaotic's Garden Domain Name]] | 1:03 PM - September 15, 2025 |
+> | [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]] | 1:03 PM - September 15, 2025 |
+> | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                    | 8:01 PM - September 12, 2025 |
+> 
+{ .block-language-dataview}
 

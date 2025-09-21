@@ -12,8 +12,8 @@ We will see how to work around with it.
 
 | File                                                                                              |
 | ------------------------------------------------------------------------------------------------- |
+| [[04 Garden Files/DG02 Tasks List of my Digital Garden\|DG02 Tasks List of my Digital Garden]] |
 | [[04 Garden Files/DG01 Welcome 🏠\|DG01 Welcome 🏠]]                                           |
 | [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]]       |
-| [[04 Garden Files/DG02 Tasks List of my Digital Garden\|DG02 Tasks List of my Digital Garden]] |
 
 { .block-language-dataview}
