@@ -22,7 +22,7 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Incoming Links
 >  | File                                                                                                                | Last Modified                 |
 > | ------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[04 Garden Files/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]] | 10:21 PM - September 21, 2025 |
+> | [[04 Garden Files/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]] | 11:02 PM - September 21, 2025 |
 > 
 { .block-language-dataview}
 

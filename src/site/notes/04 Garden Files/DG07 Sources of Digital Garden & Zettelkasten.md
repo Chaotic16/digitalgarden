@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-07-sources-of-digital-garden-and-zettelkasten/","created":"2025-09-20T17:57:05.474+05:30","updated":"2025-09-21T22:21:01.593+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-07-sources-of-digital-garden-and-zettelkasten/","created":"2025-09-20T17:57:05.474+05:30","updated":"2025-09-21T23:02:22.302+05:30"}
 ---
 
 🕸️[[05 Garden Organizing/Digitalgarden\|Digitalgarden]] 
@@ -17,7 +17,9 @@ They had more clarity on how to have note-taking system instead of a new shiny a
 
 This video by Morgan gets to the depth of it.
 
-![](https://youtu.be/ugxcbsgjEHI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ugxcbsgjEHI?si=i5o9fCiEeatW5Wpd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 
 One of the principle of my life that I try to abide by is [[Functionality over Fanciness\|Functionality over Fanciness]]
@@ -26,7 +28,9 @@ But the beautiful part of Obsidian is, it covers up both form and functionality 
 
 This video by [[08 Chitthi Newsletter/02  All Notes/Vicky Zhao\|Vicky Zhao]] gets into why I could connect writing in Obsidian as tending to my garden. 
 
-![](https://www.youtube.com/watch?v=qkVNoqXtNIA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkVNoqXtNIA?si=8QyDIx79DuugIoGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 > *Even if you don't know all the shortcuts, plugins, still put your ideas into Obsidian, look at them and think of them. There is no perfect structure.* 
 > 
@@ -34,7 +38,10 @@ This video by [[08 Chitthi Newsletter/02  All Notes/Vicky Zhao\|Vicky Zhao]] get
 
 And then there's Nick Milo with his channel Linking your thinking. 
 
-![](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QgbLb6QCK88?si=fM4prYW9AiboZqze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 
 
 So in short Obsidian is a place where
@@ -58,7 +65,8 @@ And here's the great thing about Obsidian, it supports plugins. Enter Zsolt. Thi
 
 Lastly, in 2025 I was introduced to [[Maggie Appleton\|Maggie Appleton]] and her [Digital Garden ](https://maggieappleton.com/) and it inspired me to share my knowledge (collective and self contemplations) publicly. 
 
-<iframe src="https://maggieappleton.com/garden-history" width="720" height="900" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://maggieappleton.com/garden-history" width="540" height="900" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 > [!TIP]- Incoming Links
