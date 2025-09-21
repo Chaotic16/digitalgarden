@@ -8,15 +8,14 @@
 
 
 
-| File                                                                                                    | Planted on 🌱      | Last Tended 🌻     |
-| ------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
-| [[04 Garden Files/DG02 Tasks List of my Digital Garden\|DG02 Tasks List of my Digital Garden]]       | September 12, 2025 | September 21, 2025 |
-| [[04 Garden Files/DG06 Properties in my digital garden\|DG06 Properties in my digital garden]]       | September 21, 2025 | September 21, 2025 |
-| [[04 Garden Files/DG05 Uploading Audio and Image testing.\|DG05 Uploading Audio and Image testing.]] | September 12, 2025 | September 21, 2025 |
-| [[04 Garden Files/DG01 Welcome 🏠\|DG01 Welcome 🏠]]                                                 | September 12, 2025 | September 15, 2025 |
-| [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]]             | September 12, 2025 | September 15, 2025 |
-| [[05 Garden Organizing/Index of Categories\|Index of Categories]]                                    | September 12, 2025 | September 12, 2025 |
-| [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                                | September 12, 2025 | September 12, 2025 |
+| File                                                                                              | Planted on 🌱      | Last Tended 🌻     |
+| ------------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
+| [[04 Garden Files/DG02 Tasks List of my Digital Garden\|DG02 Tasks List of my Digital Garden]] | September 12, 2025 | September 21, 2025 |
+| [[04 Garden Files/DG06 Properties in my digital garden\|DG06 Properties in my digital garden]] | September 21, 2025 | September 21, 2025 |
+| [[04 Garden Files/DG01 Welcome 🏠\|DG01 Welcome 🏠]]                                           | September 12, 2025 | September 15, 2025 |
+| [[04 Garden Files/DG03 Dataview of files with dates\|DG03 Dataview of files with dates]]       | September 12, 2025 | September 15, 2025 |
+| [[05 Garden Organizing/Index of Categories\|Index of Categories]]                              | September 12, 2025 | September 12, 2025 |
+| [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                          | September 12, 2025 | September 12, 2025 |
 
 { .block-language-dataview}
 
