@@ -11,9 +11,9 @@ Seedlings ---> Trees --- > Forests
 | File                                                                                                                    | Tags |
 | ----------------------------------------------------------------------------------------------------------------------- | ---- |
 | [[04 Garden Files/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | \-   |
-| [[04 Garden Files/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]]             | \-   |
 | [[04 Garden Files/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | \-   |
 | [[04 Garden Files/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]                         | \-   |
+| [[04 Garden Files/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]]             | \-   |
 
 { .block-language-dataview}
 
@@ -23,9 +23,9 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Incoming Links
 >  | File                                                                                                                    | Last Modified                 |
 > | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+> | [[04 Garden Files/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | 12:04 AM - September 22, 2025 |
 > | [[04 Garden Files/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | 12:01 AM - September 22, 2025 |
 > | [[04 Garden Files/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]                         | 11:57 PM - September 21, 2025 |
-> | [[04 Garden Files/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | 11:41 PM - September 21, 2025 |
 > | [[04 Garden Files/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]]             | 10:05 PM - September 21, 2025 |
 > 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-garden-files/dg-06-properties-and-workflow-of-my-digital-garden/","created":"2025-09-21T09:43:38.996+05:30","updated":"2025-09-21T23:41:39.225+05:30"}
+{"dg-publish":true,"permalink":"/04-garden-files/dg-06-properties-and-workflow-of-my-digital-garden/","created":"2025-09-21T09:43:38.996+05:30","updated":"2025-09-22T00:04:59.263+05:30"}
 ---
 
 🕸️[[05 Garden Organizing/Digitalgarden\|Digitalgarden]]

@@ -64,11 +64,11 @@ Read more about the [[04 Garden Files/DG07 Sources of Digital Garden & Zettelkas
 > [!SUCCESS]- Outgoing Links
 >  | File                                                                                                                    | Linked File Modified          |
 > | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+> | [[04 Garden Files/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | 12:04 AM - September 22, 2025 |
 > | [[04 Garden Files/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | 12:01 AM - September 22, 2025 |
 > | [[05 Garden Organizing/Status - Seedlings🌱\|Status - Seedlings🌱]]                                                  | 11:59 PM - September 21, 2025 |
 > | [[05 Garden Organizing/Index of Categories\|Index of Categories]]                                                    | 11:59 PM - September 21, 2025 |
 > | [[05 Garden Organizing/Digitalgarden\|Digitalgarden]]                                                                | 11:59 PM - September 21, 2025 |
-> | [[04 Garden Files/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | 11:41 PM - September 21, 2025 |
 > | [[04 Garden Files/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]]     | 11:02 PM - September 21, 2025 |
 > | [[04 Garden Files/DG03 Dataview of my ideas with dates\|DG03 Dataview of my ideas with dates]]                       | 10:07 PM - September 21, 2025 |
 > 
