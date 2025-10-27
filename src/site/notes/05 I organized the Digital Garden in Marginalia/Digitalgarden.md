@@ -10,13 +10,13 @@ This is a category.
 All the backlinks can be displayed here in the form of cards maybe. 
 We will see how to work around with it. 
 
-| File                                                                                                                                                   | Tags |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]                         | \-   |
-| [[04 I created a Digital Garden in my Marginalia/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | \-   |
-| [[04 I created a Digital Garden in my Marginalia/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | \-   |
-| [[04 I created a Digital Garden in my Marginalia/DG03 Dataview of my ideas with dates\|DG03 Dataview of my ideas with dates]]                       | \-   |
-| [[04 I created a Digital Garden in my Marginalia/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]]             | \-   |
-| [[04 I created a Digital Garden in my Marginalia/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]]     | \-   |
+| File                                                                                                                                                                         | Tags                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li></ul> |
+| [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | <ul><li>Digitalgarden🍂</li></ul> |
+| [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG03 Dataview of my ideas with dates\|DG03 Dataview of my ideas with dates]]                       | <ul><li>Digitalgarden🍂</li></ul> |
+| [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul> |
+| [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul> |
+| [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]]     | <ul><li>Digitalgarden🍂</li></ul> |
 
 { .block-language-dataview}

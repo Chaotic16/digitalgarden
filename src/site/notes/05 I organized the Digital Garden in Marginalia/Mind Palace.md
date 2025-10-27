@@ -10,9 +10,10 @@ This is a category.
 All the backlinks can be displayed here in the form of cards maybe. 
 We will see how to work around with it. 
 
-| File                                                                                                                         | Tags |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---- |
-| [[04 I created a Digital Garden in my Marginalia/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | \-   |
+| File                                                                                                                                               | Tags                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG09 Valorant Agents and Utilities\|DG09 Valorant Agents and Utilities]] | <ul><li>Mindpalace🏛️</li></ul> |
+| [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li></ul> |
 
 { .block-language-dataview}
 
@@ -20,16 +21,17 @@ We will see how to work around with it.
 
 
 > [!TIP]- Incoming Links
->  | File                                                                                                                         | Last Modified              |
-> | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-> | [[04 I created a Digital Garden in my Marginalia/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | 4:37 PM - October 27, 2025 |
+>  | File                                                                                                                                               | Last Modified              |
+> | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG09 Valorant Agents and Utilities\|DG09 Valorant Agents and Utilities]] | 5:04 PM - October 27, 2025 |
+> | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | 5:01 PM - October 27, 2025 |
 > 
 { .block-language-dataview}
 
 > [!SUCCESS]- Outgoing Links
->  | File                                                                                            | Linked File Modified          |
-> | ----------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]] | 11:59 PM - September 21, 2025 |
+>  | File                                                                                            | Linked File Modified       |
+> | ----------------------------------------------------------------------------------------------- | -------------------------- |
+> | [[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]] | 4:57 PM - October 27, 2025 |
 > 
 { .block-language-dataview}
 

@@ -8,9 +8,9 @@ These are all the ideas that have grown and become forests in my Garden.
 
 Seedlings ---> Trees --- > Forests
 
-| File                                                                                                                                               | Tags |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| [[04 I created a Digital Garden in my Marginalia/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]] | \-   |
+| File                                                                                                                                                                     | Tags                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- |
+| [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]] | <ul><li>Digitalgarden🍂</li></ul> |
 
 { .block-language-dataview}
 
@@ -20,16 +20,16 @@ Seedlings ---> Trees --- > Forests
 
 
 > [!TIP]- Incoming Links
->  | File                                                                                                                                               | Last Modified                 |
-> | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[04 I created a Digital Garden in my Marginalia/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]] | 11:02 PM - September 21, 2025 |
+>  | File                                                                                                                                                                     | Last Modified              |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]] | 4:59 PM - October 27, 2025 |
 > 
 { .block-language-dataview}
 
 > [!SUCCESS]- Outgoing Links
->  | File                                                                                            | Linked File Modified          |
-> | ----------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]] | 11:59 PM - September 21, 2025 |
+>  | File                                                                                            | Linked File Modified       |
+> | ----------------------------------------------------------------------------------------------- | -------------------------- |
+> | [[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]] | 4:57 PM - October 27, 2025 |
 > 
 { .block-language-dataview}
 
