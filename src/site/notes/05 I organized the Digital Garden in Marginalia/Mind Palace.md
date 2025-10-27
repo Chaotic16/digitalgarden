@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/mind-palace/","created":"2025-10-27T16:37:50.166+05:30","updated":"2025-10-27T16:39:50.203+05:30"}
+---
+
+🕸️[[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]]
+
+
+This is a category. 
+
+All the backlinks can be displayed here in the form of cards maybe. 
+We will see how to work around with it. 
+
+| File                                                                                                                         | Tags |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [[04 I created a Digital Garden in my Marginalia/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | \-   |
+
+{ .block-language-dataview}
+
+
+
+
+> [!TIP]- Incoming Links
+>  | File                                                                                                                         | Last Modified              |
+> | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | 4:37 PM - October 27, 2025 |
+> 
+{ .block-language-dataview}
+
+> [!SUCCESS]- Outgoing Links
+>  | File                                                                                            | Linked File Modified          |
+> | ----------------------------------------------------------------------------------------------- | ----------------------------- |
+> | [[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]] | 11:59 PM - September 21, 2025 |
+> 
+{ .block-language-dataview}
+
