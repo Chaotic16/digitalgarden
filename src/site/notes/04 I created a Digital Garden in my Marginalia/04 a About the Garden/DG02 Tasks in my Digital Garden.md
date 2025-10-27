@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-02-tasks-in-my-digital-garden/","tags":["Digitalgarden🍂"],"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-10-27T16:59:14.030+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-02-tasks-in-my-digital-garden/","tags":["Digitalgarden🍂"],"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-10-27T17:26:23.291+05:30"}
 ---
 
 
@@ -8,9 +8,42 @@
 
 
 
-### Someday
+### Tasks for November 2025
 
-- [ ] Start working on TV Tropes for the beginning.
+- [ ] Learning about TV Tropes
+	- [ ] TV Tropes as an idea
+	- [ ] Daredevil TV Tropes
+	- [ ] Moon Knight TV Tropes
+	- [ ] Loki
+	- [ ] Ted Lasso & More
+- [ ] Work on Mind Palaces
+	- [ ] Valorant Maps & Agents
+		- [x] Ascent
+		- [x] Agents and Utilities
+		- [ ] Abyss
+		- [ ] Bind
+		- [ ] Corrode
+		- [ ] Fracture
+		- [ ] Haven
+		- [ ] Icebox
+		- [ ] Lotus
+		- [ ] Pearl
+		- [ ] Split
+		- [ ] Sunset
+	- [ ] Ghar ke maps
+		- [ ] Our House A 37
+		- [ ] Maamaa Maami House A 95
+		- [ ] Bhaiya's Flat
+	- [ ] Area I live in
+		- [ ] Houses in order of my colony
+		- [ ] Moradabad Geo Spatial Awareness
+- [ ] Reading & Organizing Books in Folder number 07
+	- [ ] How to Decide by Annie Duke
+	- [ ] Tiny Experiments by Le Cunff
+	- [ ] The New Happy by Stephanie Harrison
+	- [ ] That Italian guy book Joel recommended
+- [ ] Make a Yoga Folder and Start working towards it properly
+	- [ ] Areas of Yog and Everything
 ### 21 September 2025 Tasks
 
 - [x] Develop a front page with important links and online content.  Homepage you know🏠
@@ -39,10 +72,10 @@
 
 
 > [!TIP]- Incoming Links
->  | File                                                                                                                                                 | Last Modified                |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-> | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 4:59 PM - October 27, 2025   |
-> | [[Home & Tasks of this Vault 🏠\|Home & Tasks of this Vault 🏠]]                                                                                  | 7:02 AM - September 24, 2025 |
+>  | File                                                                                                                                                 | Last Modified              |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+> | [[Home & Tasks 🏠\|Home & Tasks 🏠]]                                                                                                              | 5:49 PM - October 27, 2025 |
+> | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 4:59 PM - October 27, 2025 |
 > 
 { .block-language-dataview}
 

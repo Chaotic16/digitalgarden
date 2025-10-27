@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-b-memory-and-palaces/dg-08-walking-in-ascent-of-valorant/","tags":["Mindpalace🏛️"],"created":"2025-10-24T13:25:53.691+05:30","updated":"2025-10-27T17:15:27.438+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-b-memory-and-palaces/dg-08-walking-in-ascent-of-valorant/","tags":["Mindpalace🏛️"],"created":"2025-10-24T13:25:53.691+05:30","updated":"2025-10-27T17:44:34.659+05:30"}
 ---
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]]
