@@ -39,10 +39,10 @@
 
 
 > [!TIP]- Incoming Links
->  | File                                                                                                                           | Last Modified                 |
-> | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-> | [[Home & Tasks of this Vault 🏠\|Home & Tasks of this Vault 🏠]]                                                            | 7:02 AM - September 24, 2025  |
-> | [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 11:57 PM - September 21, 2025 |
+>  | File                                                                                                                           | Last Modified                |
+> | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 4:46 PM - October 27, 2025   |
+> | [[Home & Tasks of this Vault 🏠\|Home & Tasks of this Vault 🏠]]                                                            | 7:02 AM - September 24, 2025 |
 > 
 { .block-language-dataview}
 

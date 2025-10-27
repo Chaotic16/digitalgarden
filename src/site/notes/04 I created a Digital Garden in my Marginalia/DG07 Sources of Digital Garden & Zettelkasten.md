@@ -72,8 +72,8 @@ Lastly, in 2025 I was introduced to [[Maggie Appleton\|Maggie Appleton]] and her
 > [!TIP]- Incoming Links
 >  | File                                                                                                                           | Last Modified                 |
 > | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 4:46 PM - October 27, 2025    |
 > | [[08 I write Chitthi in Marginalia/02  All Notes/Being a fanatic of your own work\|Being a fanatic of your own work]]       | 8:01 AM - September 24, 2025  |
-> | [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 11:57 PM - September 21, 2025 |
 > | [[08 I write Chitthi in Marginalia/02  All Notes/Zettelkasten Method\|Zettelkasten Method]]                                 | 10:03 PM - September 21, 2025 |
 > | [[08 I write Chitthi in Marginalia/02  All Notes/Plant your garden\|Plant your garden]]                                     | 10:03 PM - September 21, 2025 |
 > 

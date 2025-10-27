@@ -26,9 +26,9 @@ The template is that of Anki and Obsidian.
 
 
 > [!TIP]- Incoming Links
->  | File                                                                                                                           | Last Modified                 |
-> | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-> | [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 11:57 PM - September 21, 2025 |
+>  | File                                                                                                                           | Last Modified              |
+> | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 4:46 PM - October 27, 2025 |
 > 
 { .block-language-dataview}
 

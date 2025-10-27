@@ -10,9 +10,9 @@ Seedlings ---> Trees --- > Forests
 
 | File                                                                                                                                                   | Tags |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]                         | \-   |
 | [[04 I created a Digital Garden in my Marginalia/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | \-   |
 | [[04 I created a Digital Garden in my Marginalia/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | \-   |
-| [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]                         | \-   |
 | [[04 I created a Digital Garden in my Marginalia/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]]             | \-   |
 
 { .block-language-dataview}
@@ -23,9 +23,9 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Incoming Links
 >  | File                                                                                                                                                   | Last Modified                 |
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]                         | 4:46 PM - October 27, 2025    |
 > | [[04 I created a Digital Garden in my Marginalia/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | 12:04 AM - September 22, 2025 |
 > | [[04 I created a Digital Garden in my Marginalia/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | 12:01 AM - September 22, 2025 |
-> | [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]                         | 11:57 PM - September 21, 2025 |
 > | [[04 I created a Digital Garden in my Marginalia/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]]             | 10:05 PM - September 21, 2025 |
 > 
 { .block-language-dataview}

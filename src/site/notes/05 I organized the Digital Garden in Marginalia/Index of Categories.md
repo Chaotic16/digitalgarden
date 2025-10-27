@@ -12,8 +12,8 @@ These are all the ideas that I have been working on from quite a long time. They
 
 | File                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| [[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]]                                                |
 | [[04 I created a Digital Garden in my Marginalia/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] |
+| [[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]]                                                |
 | [[05 I organized the Digital Garden in Marginalia/Digitalgarden\|Digitalgarden]]                                            |
 | [[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]]                                |
 | [[05 I organized the Digital Garden in Marginalia/Status - Seedlings🌱\|Status - Seedlings🌱]]                              |

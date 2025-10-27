@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/dg-01-welcome-to-chaotic-s-garden/","tags":["gardenEntry"],"created":"2025-09-12T10:28:39.968+05:30","updated":"2025-09-21T23:57:07.047+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/dg-01-welcome-to-chaotic-s-garden/","tags":["gardenEntry"],"created":"2025-09-12T10:28:39.968+05:30","updated":"2025-10-27T16:46:02.012+05:30"}
 ---
 
 
-🕸️ [[05 I organized the Digital Garden in Marginalia/Digitalgarden\|Digitalgarden]] 
+🕸️[[05 I organized the Digital Garden in Marginalia/Digitalgarden\|Digitalgarden]]
 [[05 I organized the Digital Garden in Marginalia/Status - Seedlings🌱\|Status - Seedlings🌱]]
 # Welcome to Chaotic's Digital Garden 🏠
 
