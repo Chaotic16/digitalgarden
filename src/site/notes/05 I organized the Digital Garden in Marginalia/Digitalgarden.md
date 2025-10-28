@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/digitalgarden/","created":"2025-09-12T16:55:39.225+05:30","updated":"2025-09-21T23:59:17.295+05:30"}
+{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/digitalgarden/","created":"2025-10-08T00:38:09.059+05:30","updated":"2025-09-21T23:59:17.295+05:30"}
 ---
 
 

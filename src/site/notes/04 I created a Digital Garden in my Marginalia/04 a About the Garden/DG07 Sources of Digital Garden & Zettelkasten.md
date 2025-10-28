@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-07-sources-of-digital-garden-and-zettelkasten/","tags":["Digitalgarden🍂"],"created":"2025-09-20T17:57:05.474+05:30","updated":"2025-10-27T16:59:53.021+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-07-sources-of-digital-garden-and-zettelkasten/","tags":["Digitalgarden🍂"],"created":"2025-10-27T20:53:27.232+05:30","updated":"2025-10-27T16:59:53.021+05:30"}
 ---
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Digitalgarden\|Digitalgarden]] 

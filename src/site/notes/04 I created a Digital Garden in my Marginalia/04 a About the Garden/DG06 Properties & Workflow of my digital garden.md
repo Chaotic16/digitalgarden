@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-06-properties-and-workflow-of-my-digital-garden/","tags":["Digitalgarden🍂"],"created":"2025-09-21T09:43:38.996+05:30","updated":"2025-10-27T16:59:45.522+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-06-properties-and-workflow-of-my-digital-garden/","tags":["Digitalgarden🍂"],"created":"2025-10-27T20:53:27.233+05:30","updated":"2025-10-27T16:59:45.522+05:30"}
 ---
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Digitalgarden\|Digitalgarden]]
