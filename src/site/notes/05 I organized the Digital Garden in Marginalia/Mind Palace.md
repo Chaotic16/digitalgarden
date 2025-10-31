@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/mind-palace/","created":"2025-10-27T20:53:27.238+05:30","updated":"2025-10-27T16:39:50.203+05:30"}
+{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/mind-palace/","created":"2025-10-27T16:37:50.166+05:30","updated":"2025-10-27T16:39:50.203+05:30"}
 ---
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]]
