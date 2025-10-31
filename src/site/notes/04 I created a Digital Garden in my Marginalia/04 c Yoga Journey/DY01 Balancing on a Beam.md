@@ -1,15 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-c-yoga-journey/dy-01-balancing-on-a-beam/","created":"2025-10-31T18:10:54.820+05:30","updated":"2025-10-31T18:19:01.523+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-c-yoga-journey/dy-01-balancing-on-a-beam/","created":"2025-10-31T18:10:54.820+05:30","updated":"2025-10-31T18:23:57.178+05:30"}
 ---
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Status - Seedlings🌱\|Status - Seedlings🌱]]
 
-
-
-
-
-
-## Benefits of Balancing 
+### Benefits of Balancing 
 
 1. **Proprioception**  
     Enhances joint position sense by improving sensory feedback loops, leading to smoother coordinated movement and reduced risk of missteps.
@@ -44,7 +39,7 @@
 
 ---
 
-### **BALANCING ON A BEAM – WHY SPECIFICALLY A BEAM?**
+### Why specifically a Beam?
 
 - A beam **reduces base of support**, forcing higher **sensory-motor integration**, **ankle strategy**, **hip strategy**, and **core stiffness regulation**.
     
@@ -61,7 +56,7 @@ Key muscles heavily recruited:
 
 ---
 
-### **HOW MUCH DOES SCIENCE RECOMMEND?**
+### **How much balancing does Science Recommend?**
 
 There is **no beam-specific** universal guideline, but **balance training recommendations** exist:
 
@@ -78,7 +73,7 @@ This study shows balance training significantly reduces fall risk when performed
 
 ---
 
-### **WHY BENEFICIAL FOR OLDER ADULTS?**
+### **Why is Balancing beneficial for Older Adults?**
 
 - Aging reduces proprioceptor sensitivity, vestibular hair cell count, and muscle spindle efficiency.
 - Balance training reverses **central nervous system degradation** by promoting **neuroplasticity**.
@@ -86,7 +81,7 @@ This study shows balance training significantly reduces fall risk when performed
 
 ---
 
-### **WHAT ABOUT OTHER AGE GROUPS?**
+### **Impact of Balancing for Everyone**
 
 | Group                             | Benefit                                                                                 |
 | --------------------------------- | --------------------------------------------------------------------------------------- |
@@ -97,7 +92,7 @@ This study shows balance training significantly reduces fall risk when performed
 
 ---
 
-### **SPECIAL NOTE (EXTRA BUT IMPORTANT)**
+### **Integrating Breath in Balancing**
 
 **Breath Integration During Balance**  
 Balancing improves autonomic control by shifting system from sympathetic ("fight") to parasympathetic (“calm”) modulation when breathing is controlled.  
@@ -111,9 +106,8 @@ Balance training is **not just physical**, it’s **neurological**.
 
 Prompt I used
 
-Got it. Direct, scientific, structured, no fluff.  
-You asked:
-
+Direct, scientific, structured, no fluff.  
+Give me
 - Benefits listed as one word + 20-word explanation each
 - Include beam-specific context
 - Include scientific recommendations & research citations
