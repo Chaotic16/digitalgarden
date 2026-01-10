@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-02-tasks-in-my-digital-garden/","tags":["Digitalgarden🍂"],"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-10-27T17:26:23.291+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-02-tasks-in-my-digital-garden/","tags":["Digitalgarden🍂"],"created":"2025-09-12T10:54:54.483+05:30","updated":"2025-11-07T07:57:42.424+05:30"}
 ---
 
 

@@ -64,7 +64,7 @@ Read more about the [[04 I created a Digital Garden in my Marginalia/04 a About 
 > [!SUCCESS]- Outgoing Links
 >  | File                                                                                                                                                                         | Linked File Modified          |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | 5:26 PM - October 27, 2025    |
+> | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | 7:57 AM - November 07, 2025   |
 > | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG07 Sources of Digital Garden & Zettelkasten\|DG07 Sources of Digital Garden & Zettelkasten]]     | 4:59 PM - October 27, 2025    |
 > | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | 4:59 PM - October 27, 2025    |
 > | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG03 Dataview of my ideas with dates\|DG03 Dataview of my ideas with dates]]                       | 4:59 PM - October 27, 2025    |
