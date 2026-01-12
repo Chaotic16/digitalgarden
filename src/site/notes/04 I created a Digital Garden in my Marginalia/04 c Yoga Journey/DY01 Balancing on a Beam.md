@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-c-yoga-journey/dy-01-balancing-on-a-beam/","created":"2025-10-31T18:10:54.820+05:30","updated":"2025-10-31T18:23:57.178+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-c-yoga-journey/dy-01-balancing-on-a-beam/","created":"2025-11-02T19:24:13.322+05:30","updated":"2025-10-31T18:23:57.178+05:30"}
 ---
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Status - Seedlings🌱\|Status - Seedlings🌱]]

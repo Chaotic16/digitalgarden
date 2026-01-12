@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-b-memory-and-palaces/dg-09-valorant-agents-and-utilities/","tags":["Mindpalace🏛️"],"created":"2025-10-12T18:43:45.288+05:30","updated":"2025-10-27T17:04:21.907+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-b-memory-and-palaces/dg-09-valorant-agents-and-utilities/","tags":["Mindpalace🏛️"],"created":"2025-10-27T20:53:27.229+05:30","updated":"2025-10-27T17:04:21.907+05:30"}
 ---
 
 
