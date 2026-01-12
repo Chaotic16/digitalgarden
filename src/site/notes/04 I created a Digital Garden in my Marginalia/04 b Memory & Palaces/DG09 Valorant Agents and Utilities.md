@@ -1,24 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-b-memory-and-palaces/dg-09-valorant-agents-and-utilities/","tags":["Mindpalace🏛️"],"created":"2025-10-12T18:43:45.288+05:30","updated":"2026-01-12T19:12:24.885+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-b-memory-and-palaces/dg-09-valorant-agents-and-utilities/","tags":["Mindpalace🏛️"],"created":"2025-10-12T18:43:45.288+05:30","updated":"2026-01-12T19:32:49.934+05:30"}
 ---
 
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]]
 
-
-> [!TIP]- Incoming Links
->  | File                                                                                 | Last Modified              |
-> | ------------------------------------------------------------------------------------ | -------------------------- |
-> | [[06 All Unorganized Files/Using Valorant for Memory\|Using Valorant for Memory]] | 5:02 PM - October 27, 2025 |
-> 
-{ .block-language-dataview}
-
-> [!SUCCESS]- Outgoing Links
->  | File                                                                            | Linked File Modified       |
-> | ------------------------------------------------------------------------------- | -------------------------- |
-> | [[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]] | 4:39 PM - October 27, 2025 |
-> 
-{ .block-language-dataview}
 
 
 In Valorant, I have 27 Agents so far, along with their 4 Utilities. 
@@ -64,3 +50,17 @@ I am making a table for this.
 | 28   | Sentinel   | Veto      | Cross cut    | Chokehold    | Interceptor  | Evolution                |
 
 
+
+> [!TIP]- Incoming Links
+>  | File                                                                                 | Last Modified              |
+> | ------------------------------------------------------------------------------------ | -------------------------- |
+> | [[06 All Unorganized Files/Using Valorant for Memory\|Using Valorant for Memory]] | 5:02 PM - October 27, 2025 |
+> 
+{ .block-language-dataview}
+
+> [!SUCCESS]- Outgoing Links
+>  | File                                                                            | Linked File Modified       |
+> | ------------------------------------------------------------------------------- | -------------------------- |
+> | [[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]] | 4:39 PM - October 27, 2025 |
+> 
+{ .block-language-dataview}
