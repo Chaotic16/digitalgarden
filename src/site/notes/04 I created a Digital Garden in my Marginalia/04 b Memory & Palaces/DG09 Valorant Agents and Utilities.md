@@ -1,9 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-b-memory-and-palaces/dg-09-valorant-agents-and-utilities/","tags":["Mindpalace🏛️"],"created":"2025-10-12T18:43:45.288+05:30","updated":"2025-10-27T17:04:21.907+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-b-memory-and-palaces/dg-09-valorant-agents-and-utilities/","tags":["Mindpalace🏛️"],"created":"2025-10-12T18:43:45.288+05:30","updated":"2026-01-12T19:12:24.885+05:30"}
 ---
 
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]]
+
+
+> [!TIP]- Incoming Links
+>  | File                                                                                 | Last Modified              |
+> | ------------------------------------------------------------------------------------ | -------------------------- |
+> | [[06 All Unorganized Files/Using Valorant for Memory\|Using Valorant for Memory]] | 5:02 PM - October 27, 2025 |
+> 
+{ .block-language-dataview}
+
+> [!SUCCESS]- Outgoing Links
+>  | File                                                                            | Linked File Modified       |
+> | ------------------------------------------------------------------------------- | -------------------------- |
+> | [[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]] | 4:39 PM - October 27, 2025 |
+> 
+{ .block-language-dataview}
+
 
 In Valorant, I have 27 Agents so far, along with their 4 Utilities. 
 That makes around 108 Learning pegs which I can use for my memory. 
@@ -45,21 +61,6 @@ I am making a table for this.
 | 25   |            | Yoru      | Tp           | Blinds       | Decoy        | I will handle this       |
 | 26   |            | Iso       | Shield       | Vulnerable   | Wall         | Contract Complete        |
 | 27   |            | Raze      | Boombot      | Paintshell   | Satchels     | Rocket Launcher          |
-
-
-
-> [!TIP]- Incoming Links
->  | File                                                                                 | Last Modified              |
-> | ------------------------------------------------------------------------------------ | -------------------------- |
-> | [[06 All Unorganized Files/Using Valorant for Memory\|Using Valorant for Memory]] | 5:02 PM - October 27, 2025 |
-> 
-{ .block-language-dataview}
-
-> [!SUCCESS]- Outgoing Links
->  | File                                                                            | Linked File Modified       |
-> | ------------------------------------------------------------------------------- | -------------------------- |
-> | [[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]] | 4:39 PM - October 27, 2025 |
-> 
-{ .block-language-dataview}
+| 28   | Sentinel   | Veto      | Cross cut    | Chokehold    | Interceptor  | Evolution                |
 
 
