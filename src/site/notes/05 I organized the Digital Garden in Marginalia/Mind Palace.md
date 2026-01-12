@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/mind-palace/","created":"2025-10-27T20:53:27.238+05:30","updated":"2025-10-27T16:39:50.203+05:30"}
+{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/mind-palace/","created":"2025-10-27T16:37:50.166+05:30","updated":"2025-10-27T16:39:50.203+05:30"}
 ---
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]]
@@ -21,10 +21,10 @@ We will see how to work around with it.
 
 
 > [!TIP]- Incoming Links
->  | File                                                                                                                                               | Last Modified              |
-> | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-> | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | 4:36 AM - January 11, 2026 |
-> | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG09 Valorant Agents and Utilities\|DG09 Valorant Agents and Utilities]] | 5:04 PM - October 27, 2025 |
+>  | File                                                                                                                                               | Last Modified               |
+> | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | 10:34 AM - January 12, 2026 |
+> | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG09 Valorant Agents and Utilities\|DG09 Valorant Agents and Utilities]] | 5:04 PM - October 27, 2025  |
 > 
 { .block-language-dataview}
 

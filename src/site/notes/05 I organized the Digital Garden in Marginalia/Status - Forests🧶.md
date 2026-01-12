@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/status-forests/","created":"2025-10-08T00:38:09.028+05:30","updated":"2025-09-21T23:59:28.641+05:30"}
+{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/status-forests/","created":"2025-09-21T19:32:38.497+05:30","updated":"2025-09-21T23:59:28.641+05:30"}
 ---
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]]

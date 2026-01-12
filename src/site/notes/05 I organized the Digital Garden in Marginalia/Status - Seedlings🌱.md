@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/status-seedlings/","created":"2025-10-08T00:38:09.012+05:30","updated":"2025-09-21T23:59:32.048+05:30"}
+{"dg-publish":true,"permalink":"/05-i-organized-the-digital-garden-in-marginalia/status-seedlings/","created":"2025-09-21T21:50:12.455+05:30","updated":"2025-09-21T23:59:32.048+05:30"}
 ---
 
 🕸️[[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]]
@@ -13,8 +13,8 @@ Seedlings ---> Trees --- > Forests
 | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | <ul><li>Digitalgarden🍂</li></ul> |
 | [[04 I created a Digital Garden in my Marginalia/04 c Yoga Journey/DY01 Balancing on a Beam\|DY01 Balancing on a Beam]]                                                   | \-                                |
 | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li></ul> |
-| [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul> |
 | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG06 Properties & Workflow of my digital garden\|DG06 Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul> |
+| [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG05 Uploading Media in my Digital Garden\|DG05 Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul> |
 
 { .block-language-dataview}
 

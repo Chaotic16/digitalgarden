@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-01-welcome-to-chaotic-s-garden/","tags":["Digitalgarden🍂","gardenEntry"],"created":"2025-10-27T20:53:27.241+05:30","updated":"2025-10-27T16:59:00.426+05:30"}
+{"dg-publish":true,"permalink":"/04-i-created-a-digital-garden-in-my-marginalia/04-a-about-the-garden/dg-01-welcome-to-chaotic-s-garden/","tags":["Digitalgarden🍂","gardenEntry"],"created":"2025-09-12T10:28:39.968+05:30","updated":"2025-10-27T16:59:00.426+05:30"}
 ---
 
 
