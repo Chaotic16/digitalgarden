@@ -23,8 +23,8 @@ We will see how to work around with it.
 > [!TIP]- Incoming Links
 >  | File                                                                                                                                               | Last Modified              |
 > | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | 7:15 PM - January 12, 2026 |
 > | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG09 Valorant Agents and Utilities\|DG09 Valorant Agents and Utilities]] | 7:12 PM - January 12, 2026 |
-> | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]] | 7:10 PM - January 12, 2026 |
 > 
 { .block-language-dataview}
 
