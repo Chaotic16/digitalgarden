@@ -15,8 +15,8 @@ These are all the ideas that I have been working on from quite a long time. They
 | [[05 I organized the Digital Garden in Marginalia/Index of Categories\|Index of Categories]]   |
 | [[05 I organized the Digital Garden in Marginalia/Mind Palace\|Mind Palace]]                   |
 | [[05 I organized the Digital Garden in Marginalia/Digitalgarden\|Digitalgarden]]               |
-| [[05 I organized the Digital Garden in Marginalia/Status - Seedlings🌱\|Status - Seedlings🌱]] |
 | [[05 I organized the Digital Garden in Marginalia/Status - Forests🧶\|Status - Forests🧶]]     |
+| [[05 I organized the Digital Garden in Marginalia/Status - Seedlings🌱\|Status - Seedlings🌱]] |
 | [[05 I organized the Digital Garden in Marginalia/Status - Trees🌳🌲\|Status - Trees🌳🌲]]     |
 
 { .block-language-dataview}
