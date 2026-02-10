@@ -8,13 +8,13 @@ These are all the ideas that I have recently planted and I am still nourishing t
 
 Seedlings ---> Trees --- > Forests
 
-| File                                                                                                                               | Tags                              |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul> |
-| [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul> |
-| [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]                                 | <ul><li>Digitalgarden🍂</li></ul> |
-| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li></ul> |
-| [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | \-                                |
+| File                                                                                                                               | Tags                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul>                     |
+| [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul>                     |
+| [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]                                 | <ul><li>Digitalgarden🍂</li></ul>                     |
+| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul> |
+| [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | \-                                                    |
 
 { .block-language-dataview}
 

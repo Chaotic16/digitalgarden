@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/01-about-the-garden/welcome-to-chaotic-s-garden/","tags":["Digitalgarden🍂"],"created":"2025-09-12T10:28:39.968+05:30","updated":"2026-02-10T19:28:29.039+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/01-about-the-garden/welcome-to-chaotic-s-garden/","tags":["Digitalgarden🍂","gardenEntry"],"created":"2025-09-12T10:28:39.968+05:30","updated":"2026-02-10T19:28:49.744+05:30"}
 ---
 
 
