@@ -36,11 +36,11 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Connected Files
 >  | File                                                                                                                               |
 > | ---------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   |
 > | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         |
 > | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             |
 > | [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]                                 |
 > | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] |
 > | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                                     |
-> | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   |
 > 
 { .block-language-dataview}
