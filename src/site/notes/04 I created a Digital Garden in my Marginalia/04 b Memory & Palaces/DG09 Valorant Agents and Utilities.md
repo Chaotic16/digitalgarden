@@ -52,9 +52,8 @@ I am making a table for this.
 
 
 > [!TIP]- Incoming Links
->  | File                                                                                 | Last Modified              |
-> | ------------------------------------------------------------------------------------ | -------------------------- |
-> | [[06 All Unorganized Files/Using Valorant for Memory\|Using Valorant for Memory]] | 5:02 PM - October 27, 2025 |
+>  | File | Last Modified |
+> | ---- | ------------- |
 > 
 { .block-language-dataview}
 

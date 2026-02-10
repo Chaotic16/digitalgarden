@@ -6,9 +6,9 @@
 [[05 I organized the Digital Garden in Marginalia/Status - Forests🧶\|Status - Forests🧶]]
 
 
-I first got the idea from [[08 I write Chitthi in Marginalia/02  All Notes/Keep Going\|Keep Going]] by Austin Kleon. I remember him talking about [[08 I write Chitthi in Marginalia/02  All Notes/Pay attention to what you pay attention to\|Pay attention to what you pay attention to]]. So I created a creativity newsletter, called [[08 I write Chitthi in Marginalia/02  All Notes/Chitthi\|Chitthi]]. 
+I first got the idea from [[Keep Going\|Keep Going]] by Austin Kleon. I remember him talking about [[Pay attention to what you pay attention to\|Pay attention to what you pay attention to]]. So I created a creativity newsletter, called [[Chitthi\|Chitthi]]. 
 
-Then a few years later I read the book [[08 I write Chitthi in Marginalia/02  All Notes/How to take Smart Notes\|How to take Smart Notes]] by Sönke Ahrens. 
+Then a few years later I read the book [[How to take Smart Notes\|How to take Smart Notes]] by Sönke Ahrens. 
 But I was far from practically understanding the idea of note taking. 
 
 Then I learnt about Obsidian.  And amongst many names on Youtube, I will mention the ones, that made it easy for me to learn about Zettelkasten Method. 
@@ -26,7 +26,7 @@ One of the principle of my life that I try to abide by is [[Functionality over F
 
 But the beautiful part of Obsidian is, it covers up both form and functionality very well.
 
-This video by [[08 I write Chitthi in Marginalia/02  All Notes/Vicky Zhao\|Vicky Zhao]] gets into why I could connect writing in Obsidian as tending to my garden. 
+This video by [[Vicky Zhao\|Vicky Zhao]] gets into why I could connect writing in Obsidian as tending to my garden. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qkVNoqXtNIA?si=8QyDIx79DuugIoGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -70,26 +70,18 @@ Lastly, in 2025 I was introduced to [[Maggie Appleton\|Maggie Appleton]] and her
 
 
 > [!TIP]- Incoming Links
->  | File                                                                                                                                                 | Last Modified                 |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 4:59 PM - October 27, 2025    |
-> | [[08 I write Chitthi in Marginalia/02  All Notes/Being a fanatic of your own work\|Being a fanatic of your own work]]                             | 8:01 AM - September 24, 2025  |
-> | [[08 I write Chitthi in Marginalia/02  All Notes/Zettelkasten Method\|Zettelkasten Method]]                                                       | 10:03 PM - September 21, 2025 |
-> | [[08 I write Chitthi in Marginalia/02  All Notes/Plant your garden\|Plant your garden]]                                                           | 10:03 PM - September 21, 2025 |
+>  | File                                                                                                                                                 | Last Modified              |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+> | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 4:59 PM - October 27, 2025 |
 > 
 { .block-language-dataview}
 
 
 > [!SUCCESS]- Outgoing Links
->  | File                                                                                                                                         | Linked File Modified          |
-> | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-> | [[05 I organized the Digital Garden in Marginalia/Status - Forests🧶\|Status - Forests🧶]]                                                | 11:59 PM - September 21, 2025 |
-> | [[05 I organized the Digital Garden in Marginalia/Digitalgarden\|Digitalgarden]]                                                          | 11:59 PM - September 21, 2025 |
-> | [[08 I write Chitthi in Marginalia/02  All Notes/Vicky Zhao\|Vicky Zhao]]                                                                 | 7:31 PM - September 20, 2025  |
-> | [[08 I write Chitthi in Marginalia/02  All Notes/Pay attention to what you pay attention to\|Pay attention to what you pay attention to]] | 7:29 PM - September 20, 2025  |
-> | [[08 I write Chitthi in Marginalia/02  All Notes/Keep Going\|Keep Going]]                                                                 | 7:28 PM - September 20, 2025  |
-> | [[08 I write Chitthi in Marginalia/02  All Notes/How to take Smart Notes\|How to take Smart Notes]]                                       | 7:28 PM - September 20, 2025  |
-> | [[08 I write Chitthi in Marginalia/02  All Notes/Chitthi\|Chitthi]]                                                                       | 7:27 PM - September 20, 2025  |
+>  | File                                                                                          | Linked File Modified          |
+> | --------------------------------------------------------------------------------------------- | ----------------------------- |
+> | [[05 I organized the Digital Garden in Marginalia/Status - Forests🧶\|Status - Forests🧶]] | 11:59 PM - September 21, 2025 |
+> | [[05 I organized the Digital Garden in Marginalia/Digitalgarden\|Digitalgarden]]           | 11:59 PM - September 21, 2025 |
 > 
 { .block-language-dataview}
 

@@ -74,7 +74,6 @@
 > [!TIP]- Incoming Links
 >  | File                                                                                                                                                 | Last Modified              |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-> | [[Home & Tasks 🏠\|Home & Tasks 🏠]]                                                                                                              | 5:49 PM - October 27, 2025 |
 > | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG01 Welcome to Chaotic's Garden 🏠\|DG01 Welcome to Chaotic's Garden 🏠]] | 4:59 PM - October 27, 2025 |
 > 
 { .block-language-dataview}

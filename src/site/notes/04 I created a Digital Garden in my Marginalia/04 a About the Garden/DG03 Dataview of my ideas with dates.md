@@ -12,7 +12,6 @@
 
 | File                                                                                                                                                                         | Planted on 🌱      | Last Tended 🌻     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
-| [[Testing Publishing Database and Canvas\|Testing Publishing Database and Canvas]]                                                                                        | January 20, 2026   | January 20, 2026   |
 | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG08 Walking in Ascent of Valorant\|DG08 Walking in Ascent of Valorant]]                           | October 30, 2025   | January 12, 2026   |
 | [[04 I created a Digital Garden in my Marginalia/04 b Memory & Palaces/DG09 Valorant Agents and Utilities\|DG09 Valorant Agents and Utilities]]                           | October 12, 2025   | January 12, 2026   |
 | [[04 I created a Digital Garden in my Marginalia/04 a About the Garden/DG02 Tasks in my Digital Garden\|DG02 Tasks in my Digital Garden]]                                 | September 12, 2025 | November 07, 2025  |
