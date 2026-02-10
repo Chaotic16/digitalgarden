@@ -47,9 +47,9 @@
 > [!TIP]- Connected Files
 >  | File                                                                                                       |
 > | ---------------------------------------------------------------------------------------------------------- |
+> | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]]                               |
 > | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
 > | [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]         |
-> | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]]                               |
 > | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                         |
 > 
 { .block-language-dataview}

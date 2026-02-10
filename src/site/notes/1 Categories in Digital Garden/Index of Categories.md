@@ -42,8 +42,8 @@ These are all the ideas that I have been working on from quite a long time. They
 > [!TIP]- Connected Files
 >  | File                                                                                                       |
 > | ---------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
 > | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]]                               |
+> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
 > | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                           |
 > | [[1 Categories in Digital Garden/Status - Forests🧶\|Status - Forests🧶]]                               |
 > | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]                                             |

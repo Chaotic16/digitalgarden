@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-categories-in-digital-garden/status-trees/","created":"2025-09-21T21:54:31.699+05:30","updated":"2026-02-10T19:28:23.166+05:30"}
+{"dg-publish":true,"permalink":"/1-categories-in-digital-garden/status-trees/","created":"2025-09-21T21:54:31.699+05:30","updated":"2026-02-10T19:40:19.274+05:30"}
 ---
 
 🕸️[[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]
