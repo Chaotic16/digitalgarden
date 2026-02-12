@@ -48,9 +48,9 @@ As of February 2025, you are also using Self-hosting services so you can use the
 
 
 > [!SUCCESS] File Information
->  | File                                                                                                                   | Created     | Last Modified | Edited |
-> | ---------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] | 21 Sep 2025 | 10 Feb 2026   | Today  |
+>  | File                                                                                                                   | Created     | Last Modified | Edited    |
+> | ---------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | --------- |
+> | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] | 21 Sep 2025 | 10 Feb 2026   | Yesterday |
 > 
 { .block-language-dataview}
 

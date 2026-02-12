@@ -12,13 +12,15 @@ These are all the ideas that I have been working on from quite a long time. They
 
 | File                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------- |
+| [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                               |
+| [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                           |
+| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
 | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                         |
 | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                             |
 | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]                                             |
 | [[1 Categories in Digital Garden/Status - Forests🧶\|Status - Forests🧶]]                               |
 | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                           |
 | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]]                               |
-| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
 
 { .block-language-dataview}
 
@@ -31,9 +33,9 @@ These are all the ideas that I have been working on from quite a long time. They
 
 
 > [!SUCCESS] File Information
->  | File                                                                           | Created     | Last Modified | Edited |
-> | ------------------------------------------------------------------------------ | ----------- | ------------- | ------ |
-> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] | 12 Sep 2025 | 10 Feb 2026   | Today  |
+>  | File                                                                           | Created     | Last Modified | Edited    |
+> | ------------------------------------------------------------------------------ | ----------- | ------------- | --------- |
+> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] | 12 Sep 2025 | 10 Feb 2026   | Yesterday |
 > 
 { .block-language-dataview}
 
@@ -42,8 +44,10 @@ These are all the ideas that I have been working on from quite a long time. They
 > [!TIP]- Connected Files
 >  | File                                                                                                       |
 > | ---------------------------------------------------------------------------------------------------------- |
-> | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]]                               |
 > | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
+> | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                           |
+> | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                               |
+> | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]]                               |
 > | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                           |
 > | [[1 Categories in Digital Garden/Status - Forests🧶\|Status - Forests🧶]]                               |
 > | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]                                             |

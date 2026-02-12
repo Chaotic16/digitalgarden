@@ -10,10 +10,10 @@ This is a category.
 All the backlinks can be displayed here in the form of cards maybe. 
 We will see how to work around with it. 
 
-| File                                                                                                     | Tags                            |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li></ul> |
-| [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | <ul><li>Mindpalace🏛️</li></ul> |
+| File                                                                                                     | Tags                                                   |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
+| [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li><li>ValorantMaps</li></ul>   |
 
 { .block-language-dataview}
 
@@ -24,9 +24,9 @@ We will see how to work around with it.
 
 
 > [!SUCCESS] File Information
->  | File                                                           | Created     | Last Modified | Edited |
-> | -------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | Today  |
+>  | File                                                           | Created     | Last Modified | Edited    |
+> | -------------------------------------------------------------- | ----------- | ------------- | --------- |
+> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | Yesterday |
 > 
 { .block-language-dataview}
 
@@ -35,8 +35,8 @@ We will see how to work around with it.
 > [!TIP]- Connected Files
 >  | File                                                                                                     |
 > | -------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] |
 > | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] |
+> | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] |
 > | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                           |
 > 
 { .block-language-dataview}

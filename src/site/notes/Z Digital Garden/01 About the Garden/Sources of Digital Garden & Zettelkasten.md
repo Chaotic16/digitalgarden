@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/01-about-the-garden/sources-of-digital-garden-and-zettelkasten/","tags":["Digitalgarden🍂"],"created":"2025-09-20T17:57:05.474+05:30","updated":"2026-02-10T19:28:20.058+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/01-about-the-garden/sources-of-digital-garden-and-zettelkasten/","tags":["Digitalgarden🍂"],"created":"2025-09-20T17:57:05.474+05:30","updated":"2026-02-12T12:51:37.639+05:30"}
 ---
 
 🕸️[[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]] 
 [[1 Categories in Digital Garden/Status - Forests🧶\|Status - Forests🧶]]
 
 
-I first got the idea from [[Keep Going\|Keep Going]] by Austin Kleon. I remember him talking about [[Pay attention to what you pay attention to\|Pay attention to what you pay attention to]]. So I created a creativity newsletter, called [[Chitthi\|Chitthi]]. 
+I first got the idea to share my work in public from [[Keep Going\|Keep Going]] and [[Show your work\|Show your work]] by [[Austin Kleon\|Austin Kleon]]  I remember him talking about [[Pay attention to what you pay attention to\|Pay attention to what you pay attention to]]. So I created a creativity newsletter, called [[Chitthi\|Chitthi]]. 
 
 Then a few years later I read the book [[How to take Smart Notes\|How to take Smart Notes]] by Sönke Ahrens. 
 But I was far from practically understanding the idea of note taking. 
@@ -15,7 +15,7 @@ Then I learnt about Obsidian.  And amongst many names on Youtube, I will mention
 
 They had more clarity on how to have note-taking system instead of a new shiny app called Obsidian. 
 
-This video by Morgan gets to the depth of it.
+This video by [[Morganeua\|Morganeua]] gets to the depth of it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ugxcbsgjEHI?si=i5o9fCiEeatW5Wpd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -36,7 +36,7 @@ This video by [[Vicky Zhao\|Vicky Zhao]] gets into why I could connect writing i
 > 
 > *Structure must be earned*
 
-And then there's Nick Milo with his channel Linking your thinking. 
+And then there's Nick Milo with his channel Linking your thinking who gets into the basics of it all. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QgbLb6QCK88?si=fM4prYW9AiboZqze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -77,7 +77,7 @@ Lastly, in 2025 I was introduced to [[Maggie Appleton\|Maggie Appleton]] and her
 > [!SUCCESS] File Information
 >  | File                                                                                                                           | Created     | Last Modified | Edited |
 > | ------------------------------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | 20 Sep 2025 | 10 Feb 2026   | Today  |
+> | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | 20 Sep 2025 | 12 Feb 2026   | Today  |
 > 
 { .block-language-dataview}
 

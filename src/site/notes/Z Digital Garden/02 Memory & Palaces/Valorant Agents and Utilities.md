@@ -1,22 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/02-memory-and-palaces/valorant-agents-and-utilities/","tags":["Mindpalace🏛️"],"created":"2025-10-12T18:43:45.288+05:30","updated":"2026-02-10T19:28:27.132+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/02-memory-and-palaces/valorant-agents-and-utilities/","tags":["Mindpalace🏛️","ValorantAgents"],"created":"2025-10-12T18:43:45.288+05:30","updated":"2026-02-12T13:40:23.340+05:30"}
 ---
 
 
-🕸️[[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]
-
-
+🕸️[[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] , [[Valorant Agents\|Valorant Agents]]
+[[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]
 
 In Valorant, I have 27 Agents so far, along with their 4 Utilities. 
 That makes around 108 Learning pegs which I can use for my memory. 
 
 I still have to build around it, so working on this idea.
 
-
-
 I am making a table for this.
-
-
 
 | S No | Role       | Agent     | Basic Util   | Util 2       | Util 3       | Ultimate                 |
 | ---- | ---------- | --------- | ------------ | ------------ | ------------ | ------------------------ |
@@ -57,15 +52,16 @@ I am making a table for this.
 > [!SUCCESS] File Information
 >  | File                                                                                                     | Created     | Last Modified | Edited |
 > | -------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | 12 Oct 2025 | 10 Feb 2026   | Today  |
+> | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | 12 Oct 2025 | 12 Feb 2026   | Today  |
 > 
 { .block-language-dataview}
 
 
 
 > [!TIP]- Connected Files
->  | File                                                           |
-> | -------------------------------------------------------------- |
-> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] |
+>  | File                                                                             |
+> | -------------------------------------------------------------------------------- |
+> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] |
+> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]                   |
 > 
 { .block-language-dataview}

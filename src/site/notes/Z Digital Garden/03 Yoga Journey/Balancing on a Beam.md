@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/03-yoga-journey/balancing-on-a-beam/","created":"2025-10-31T18:10:54.820+05:30","updated":"2026-02-10T19:50:29.803+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/03-yoga-journey/balancing-on-a-beam/","tags":["Yoga","Body"],"created":"2025-10-31T18:10:54.820+05:30","updated":"2026-02-12T14:16:41.057+05:30"}
 ---
 
-🕸️[[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]
+🕸️[[Yoga\|Yoga]] , [[Body\|Body]] 
+[[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]
+⚡[[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]
+
 
 ### Benefits of Balancing 
 
@@ -123,7 +126,7 @@ Give me
 > [!SUCCESS] File Information
 >  | File                                                                             | Created     | Last Modified | Edited |
 > | -------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]] | 31 Oct 2025 | 10 Feb 2026   | Today  |
+> | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]] | 31 Oct 2025 | 12 Feb 2026   | Today  |
 > 
 { .block-language-dataview}
 
@@ -132,6 +135,7 @@ Give me
 > [!TIP]- Connected Files
 >  | File                                                                             |
 > | -------------------------------------------------------------------------------- |
+> | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                     |
 > | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] |
 > 
 { .block-language-dataview}

@@ -75,9 +75,9 @@
 
 
 > [!SUCCESS] File Information
->  | File                                                                                               | Created     | Last Modified | Edited |
-> | -------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]] | 12 Sep 2025 | 10 Feb 2026   | Today  |
+>  | File                                                                                               | Created     | Last Modified | Edited    |
+> | -------------------------------------------------------------------------------------------------- | ----------- | ------------- | --------- |
+> | [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]] | 12 Sep 2025 | 10 Feb 2026   | Yesterday |
 > 
 { .block-language-dataview}
 
@@ -87,9 +87,9 @@
 >  | File                                                                                                         |
 > | ------------------------------------------------------------------------------------------------------------ |
 > | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]   |
+> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] |
 > | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                             |
 > | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                           |
-> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] |
 > | [[Z Digital Garden/01 About the Garden/Chaotic's Garden Domain Name\|Chaotic's Garden Domain Name]]       |
 > 
 { .block-language-dataview}
