@@ -10,10 +10,10 @@ Seedlings ---> Trees --- > Forests
 
 | File                                                                                                                               | Tags                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul>                      |
 | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       | <ul><li>Memory🧠</li></ul>                             |
 | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                                   | <ul><li>Memory🧠</li></ul>                             |
-| [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul>                      |
 | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul>  |
 | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
 | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | <ul><li>Yoga</li><li>Body</li></ul>                    |
@@ -42,9 +42,9 @@ Seedlings ---> Trees --- > Forests
 >  | File                                                                                                                               |
 > | ---------------------------------------------------------------------------------------------------------------------------------- |
 > | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               |
+> | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] |
 > | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 |
 > | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                                                         |
-> | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] |
 > | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   |
 > | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           |
 > | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         |

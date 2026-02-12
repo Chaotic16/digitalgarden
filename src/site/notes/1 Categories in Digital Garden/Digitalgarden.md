@@ -12,8 +12,8 @@ We will see how to work around with it.
 
 | File                                                                                                                               | Tags                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       | <ul><li>Digitalgarden🍂</li></ul>                     |
 | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul>                     |
+| [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       | <ul><li>Digitalgarden🍂</li></ul>                     |
 | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]]     | <ul><li>Digitalgarden🍂</li></ul>                     |
 | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul> |
 | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul>                     |

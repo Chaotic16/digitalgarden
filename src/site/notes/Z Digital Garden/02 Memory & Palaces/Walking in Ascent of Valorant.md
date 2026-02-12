@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/02-memory-and-palaces/walking-in-ascent-of-valorant/","tags":["Mindpalace🏛️","ValorantMaps"],"created":"2025-10-30T15:55:55.009+05:30","updated":"2026-02-12T16:44:03.570+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/02-memory-and-palaces/walking-in-ascent-of-valorant/","tags":["Mindpalace🏛️","ValorantMaps"],"created":"2025-10-30T15:55:55.009+05:30","updated":"2026-02-13T01:55:02.191+05:30"}
 ---
 
 🕸️[[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] , [[Valorant Maps\|Valorant Maps]]
@@ -48,7 +48,7 @@ Can I remember all of them? Write them down on a piece of paper.
 
 > [!note]- Here's a drawn map for one
 > 
-> ![Walking in Ascent of Valorant.png|720](/img/user/2%20Base%20of%20Images/Walking%20in%20Ascent%20of%20Valorant.png)
+> ![Walking in Ascent of Valorant.png|2160](/img/user/2%20Base%20of%20Images/Walking%20in%20Ascent%20of%20Valorant.png)
 
 
 
@@ -58,7 +58,7 @@ Can I remember all of them? Write them down on a piece of paper.
 > [!SUCCESS] File Information
 >  | File                                                                                                     | Created     | Last Modified | Edited |
 > | -------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | 30 Oct 2025 | 12 Feb 2026   | Today  |
+> | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | 30 Oct 2025 | 13 Feb 2026   | Today  |
 > 
 { .block-language-dataview}
 

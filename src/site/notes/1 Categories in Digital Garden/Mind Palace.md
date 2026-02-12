@@ -12,9 +12,9 @@ We will see how to work around with it.
 
 | File                                                                                                     | Tags                                                   |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li><li>ValorantMaps</li></ul>   |
 | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                     | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
-| [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li><li>ValorantMaps</li></ul>   |
 
 { .block-language-dataview}
 

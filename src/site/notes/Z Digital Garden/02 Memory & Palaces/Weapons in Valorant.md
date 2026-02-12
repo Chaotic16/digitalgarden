@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/02-memory-and-palaces/weapons-in-valorant/","tags":["Mindpalace🏛️","Valorant"],"created":"2026-02-12T22:40:49.655+05:30","updated":"2026-02-13T01:48:10.456+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/02-memory-and-palaces/weapons-in-valorant/","tags":["Mindpalace🏛️","Valorant"],"created":"2026-02-12T22:40:49.655+05:30","updated":"2026-02-13T01:56:47.321+05:30"}
 ---
 
 🕸️[[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]  [[Valorant\|Valorant]]
@@ -9,7 +9,7 @@
 
 Here's a list of Weapons in Valorant, another stuff that can be used as a scaffold.
 
-![Weapons in Valorant.png](/img/user/2%20Base%20of%20Images/Weapons%20in%20Valorant.png)
+![Weapons in Valorant.png|2160](/img/user/2%20Base%20of%20Images/Weapons%20in%20Valorant.png)
 
 
 ---

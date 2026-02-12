@@ -34,8 +34,8 @@ Will talk about it more soon.
 > [!TIP]- Connected Files
 >  | File                                                                                                     |
 > | -------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                               |
 > | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] |
+> | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                               |
 > | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                         |
 > | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                           |
 > 
