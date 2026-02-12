@@ -16,7 +16,7 @@ Will talk about it more soon.
 | File                                                                                                     | Tags                                                 |
 | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li><li>ValorantMaps</li></ul> |
-| [[MCU Caste\|MCU Caste]]                                                                              | <ul><li>TVTropes</li></ul>                           |
+| [[Z Digital Garden/04 Movies & TV Series/MCU Caste\|MCU Caste]]                                       | <ul><li>TVTropes</li></ul>                           |
 
 { .block-language-dataview}
 ---
@@ -34,7 +34,7 @@ Will talk about it more soon.
 > [!TIP]- Connected Files
 >  | File                                                                                                     |
 > | -------------------------------------------------------------------------------------------------------- |
-> | [[MCU Caste\|MCU Caste]]                                                                              |
+> | [[Z Digital Garden/04 Movies & TV Series/MCU Caste\|MCU Caste]]                                       |
 > | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] |
 > | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                         |
 > | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                           |
