@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/04-movies-and-tv-series/mcu-characters/","tags":["TVTropes"],"created":"2026-02-12T16:22:38.387+05:30","updated":"2026-02-12T17:07:45.528+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/04-movies-and-tv-series/mcu-characters/","tags":["TVTropes"],"created":"2026-02-12T16:22:38.387+05:30","updated":"2026-02-12T18:55:26.382+05:30"}
 ---
 
 🕸️[[TV Tropes\|TV Tropes]]
@@ -105,7 +105,7 @@ Here's a picture Quiz of some TV Characters I enjoyed watching
 
 >[!note]- Answer
 >
- Olivia Munn as Psylocke
+ Olivia Munn as Psylocke.
 
 ---
 
