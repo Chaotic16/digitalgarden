@@ -11,6 +11,7 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 
 | File                                                                                                                               | Planted on 🌱      | Last Tended 🌻    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- |
+| [[Weapons in Valorant\|Weapons in Valorant]]                                                                                    | February 12, 2026  | February 13, 2026 |
 | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       | February 12, 2026  | February 12, 2026 |
 | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                                   | February 12, 2026  | February 12, 2026 |
 | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       | September 12, 2025 | February 12, 2026 |
@@ -24,7 +25,6 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 | February 12, 2026  | February 12, 2026 |
 | [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]                               | February 12, 2026  | February 12, 2026 |
 | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                                                         | February 12, 2026  | February 12, 2026 |
-| [[Weapons in Valorant\|Weapons in Valorant]]                                                                                    | February 12, 2026  | February 12, 2026 |
 | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                                                 | September 12, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                                     | September 12, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]                                                                     | October 27, 2025   | February 10, 2026 |

@@ -25,9 +25,9 @@ Seedlings ---> Trees --- > Forests
 
 
 > [!SUCCESS] File Information
->  | File                                                                         | Created     | Last Modified | Edited    |
-> | ---------------------------------------------------------------------------- | ----------- | ------------- | --------- |
-> | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]] | 21 Sep 2025 | 10 Feb 2026   | Yesterday |
+>  | File                                                                         | Created     | Last Modified | Edited     |
+> | ---------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
+> | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]] | 21 Sep 2025 | 10 Feb 2026   | 2 days ago |
 > 
 { .block-language-dataview}
 

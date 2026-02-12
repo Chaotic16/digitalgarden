@@ -10,6 +10,7 @@ Seedlings ---> Trees --- > Forests
 
 | File                                                                                                                               | Tags                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [[Weapons in Valorant\|Weapons in Valorant]]                                                                                    | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       | <ul><li>Memory🧠</li></ul>                             |
 | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                                   | <ul><li>Memory🧠</li></ul>                             |
 | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul>                      |
@@ -18,7 +19,6 @@ Seedlings ---> Trees --- > Forests
 | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | <ul><li>Yoga</li><li>Body</li></ul>                    |
 | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 | <ul><li>breath</li><li>Yoga</li></ul>                  |
 | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                                                         | <ul><li>TVTropes</li></ul>                             |
-| [[Weapons in Valorant\|Weapons in Valorant]]                                                                                    | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul>                      |
 
 { .block-language-dataview}
@@ -30,9 +30,9 @@ Seedlings ---> Trees --- > Forests
 
 
 > [!SUCCESS] File Information
->  | File                                                                             | Created     | Last Modified | Edited    |
-> | -------------------------------------------------------------------------------- | ----------- | ------------- | --------- |
-> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] | 21 Sep 2025 | 10 Feb 2026   | Yesterday |
+>  | File                                                                             | Created     | Last Modified | Edited     |
+> | -------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
+> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] | 21 Sep 2025 | 10 Feb 2026   | 2 days ago |
 > 
 { .block-language-dataview}
 

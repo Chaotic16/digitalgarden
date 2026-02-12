@@ -33,9 +33,9 @@ These are all the ideas that I have been working on from quite a long time. They
 
 
 > [!SUCCESS] File Information
->  | File                                                                           | Created     | Last Modified | Edited    |
-> | ------------------------------------------------------------------------------ | ----------- | ------------- | --------- |
-> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] | 12 Sep 2025 | 10 Feb 2026   | Yesterday |
+>  | File                                                                           | Created     | Last Modified | Edited     |
+> | ------------------------------------------------------------------------------ | ----------- | ------------- | ---------- |
+> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] | 12 Sep 2025 | 10 Feb 2026   | 2 days ago |
 > 
 { .block-language-dataview}
 

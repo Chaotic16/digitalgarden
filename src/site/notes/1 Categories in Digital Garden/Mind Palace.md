@@ -12,9 +12,9 @@ We will see how to work around with it.
 
 | File                                                                                                     | Tags                                                   |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [[Weapons in Valorant\|Weapons in Valorant]]                                                          | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
 | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li><li>ValorantMaps</li></ul>   |
-| [[Weapons in Valorant\|Weapons in Valorant]]                                                          | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 
 { .block-language-dataview}
 
@@ -25,9 +25,9 @@ We will see how to work around with it.
 
 
 > [!SUCCESS] File Information
->  | File                                                           | Created     | Last Modified | Edited    |
-> | -------------------------------------------------------------- | ----------- | ------------- | --------- |
-> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | Yesterday |
+>  | File                                                           | Created     | Last Modified | Edited     |
+> | -------------------------------------------------------------- | ----------- | ------------- | ---------- |
+> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | 2 days ago |
 > 
 { .block-language-dataview}
 
