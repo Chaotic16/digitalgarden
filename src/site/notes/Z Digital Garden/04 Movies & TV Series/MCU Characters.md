@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/04-movies-and-tv-series/mcu-characters/","tags":["TVTropes"],"created":"2026-02-12T16:22:38.387+05:30","updated":"2026-02-12T16:45:00.881+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/04-movies-and-tv-series/mcu-characters/","tags":["TVTropes"],"created":"2026-02-12T16:22:38.387+05:30","updated":"2026-02-12T16:52:18.166+05:30"}
 ---
 
 🕸️[[TV Tropes\|TV Tropes]]
@@ -19,8 +19,10 @@ Here's a picture Quiz of some TV Characters I enjoyed watching
 
 ## 2
 
-| ![[May Calamwy.png\|360]] | ![[May Calamwy-1.png\|360]] |
+
+| ![[May Calamwy.png\|300]] | ![[May Calamwy-1.png\|300]] |
 | ------------------------- | --------------------------- |
+
 
 >[!note]- Answer
 >
