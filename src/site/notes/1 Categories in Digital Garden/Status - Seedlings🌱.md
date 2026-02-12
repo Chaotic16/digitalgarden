@@ -10,7 +10,7 @@ Seedlings ---> Trees --- > Forests
 
 | File                                                                                                                               | Tags                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [[Weapons in Valorant\|Weapons in Valorant]]                                                                                    | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
+| [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       | <ul><li>Memory🧠</li></ul>                             |
 | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                                   | <ul><li>Memory🧠</li></ul>                             |
 | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul>                      |
@@ -41,7 +41,7 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Connected Files
 >  | File                                                                                                                               |
 > | ---------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Weapons in Valorant\|Weapons in Valorant]]                                                                                    |
+> | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               |
 > | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 |
 > | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                                                         |
 > | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] |

@@ -11,7 +11,7 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 
 | File                                                                                                                               | Planted on 🌱      | Last Tended 🌻    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- |
-| [[Weapons in Valorant\|Weapons in Valorant]]                                                                                    | February 12, 2026  | February 13, 2026 |
+| [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               | February 12, 2026  | February 13, 2026 |
 | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       | February 12, 2026  | February 12, 2026 |
 | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                                   | February 12, 2026  | February 12, 2026 |
 | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       | September 12, 2025 | February 12, 2026 |

@@ -12,7 +12,7 @@ We will see how to work around with it.
 
 | File                                                                                                     | Tags                                                   |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [[Weapons in Valorant\|Weapons in Valorant]]                                                          | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
+| [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                     | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
 | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li><li>ValorantMaps</li></ul>   |
 
@@ -36,7 +36,7 @@ We will see how to work around with it.
 > [!TIP]- Connected Files
 >  | File                                                                                                     |
 > | -------------------------------------------------------------------------------------------------------- |
-> | [[Weapons in Valorant\|Weapons in Valorant]]                                                          |
+> | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                     |
 > | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] |
 > | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] |
 > | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                           |
