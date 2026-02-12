@@ -16,7 +16,7 @@ Seedlings ---> Trees --- > Forests
 | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul>  |
 | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
 | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | <ul><li>Yoga</li><li>Body</li></ul>                    |
-| [[Z Digital Garden/04 Movies & TV Series/MCU Characters\|MCU Characters]]                                                       | <ul><li>TVTropes</li></ul>                             |
+| [[MCU Caste\|MCU Caste]]                                                                                                        | <ul><li>TVTropes</li></ul>                             |
 | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul>                      |
 
 { .block-language-dataview}
@@ -39,7 +39,7 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Connected Files
 >  | File                                                                                                                               |
 > | ---------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/04 Movies & TV Series/MCU Characters\|MCU Characters]]                                                       |
+> | [[MCU Caste\|MCU Caste]]                                                                                                        |
 > | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] |
 > | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   |
 > | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           |

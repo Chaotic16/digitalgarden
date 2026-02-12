@@ -21,7 +21,7 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]]                           | October 30, 2025   | February 12, 2026 |
 | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | October 31, 2025   | February 12, 2026 |
 | [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]                               | February 12, 2026  | February 12, 2026 |
-| [[Z Digital Garden/04 Movies & TV Series/MCU Characters\|MCU Characters]]                                                       | February 12, 2026  | February 12, 2026 |
+| [[MCU Caste\|MCU Caste]]                                                                                                        | February 12, 2026  | February 12, 2026 |
 | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                                                 | September 12, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                                     | September 12, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]                                                                     | October 27, 2025   | February 10, 2026 |
