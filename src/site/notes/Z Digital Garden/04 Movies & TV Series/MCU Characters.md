@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/04-movies-and-tv-series/mcu-characters/","tags":["TVTropes"],"created":"2026-02-12T16:22:38.387+05:30","updated":"2026-02-12T16:52:18.166+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/04-movies-and-tv-series/mcu-characters/","tags":["TVTropes"],"created":"2026-02-12T16:22:38.387+05:30","updated":"2026-02-12T17:07:45.528+05:30"}
 ---
 
 🕸️[[TV Tropes\|TV Tropes]]
@@ -20,8 +20,10 @@ Here's a picture Quiz of some TV Characters I enjoyed watching
 ## 2
 
 
-| ![[May Calamwy.png\|300]] | ![[May Calamwy-1.png\|300]] |
-| ------------------------- | --------------------------- |
+![May Calamwy Layla.png|300](/img/user/2%20Base%20of%20Images/May%20Calamwy%20Layla.png)
+
+
+![May Calamwy.png|360](/img/user/2%20Base%20of%20Images/May%20Calamwy.png)
 
 
 >[!note]- Answer
@@ -94,6 +96,16 @@ Here's a picture Quiz of some TV Characters I enjoyed watching
  Gugu Mbatha Raw as Ravonna Renslayer
 
 
+
+---
+
+## 9 
+
+![Psylocke.png|360](/img/user/2%20Base%20of%20Images/Psylocke.png)
+
+>[!note]- Answer
+>
+ Olivia Munn as Psylocke
 
 ---
 
