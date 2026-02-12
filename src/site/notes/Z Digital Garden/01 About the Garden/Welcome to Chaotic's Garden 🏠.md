@@ -51,7 +51,7 @@ Read more about the [[Z Digital Garden/01 About the Garden/Sources of Digital Ga
 - You can see all my growth log here. [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]
 - My workflow and properties of the Garden are explained here. [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]]
 - You can go through my [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] in the Garden here.
-- You can go through the progress log of my garden here. [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]
+- You can go through the progress log of my garden here. [[Tasks in my Digital Garden\|Tasks in my Digital Garden]]
 
 
 ### What makes my Garden unique?
@@ -82,7 +82,6 @@ Read more about the [[Z Digital Garden/01 About the Garden/Sources of Digital Ga
 > | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       |
 > | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]]     |
 > | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       |
-> | [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]                                 |
 > | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                                                   |
 > | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                                     |
 > | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                                                 |

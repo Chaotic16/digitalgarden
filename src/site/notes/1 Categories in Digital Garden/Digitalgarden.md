@@ -10,14 +10,13 @@ This is a category.
 All the backlinks can be displayed here in the form of cards maybe. 
 We will see how to work around with it. 
 
-| File                                                                                                                               | Tags                              |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]]     | <ul><li>Digitalgarden🍂</li></ul> |
-| [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       | <ul><li>Digitalgarden🍂</li></ul> |
-| [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul> |
-| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li></ul> |
-| [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]                                 | <ul><li>Digitalgarden🍂</li></ul> |
-| [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul> |
+| File                                                                                                                               | Tags                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]]     | <ul><li>Digitalgarden🍂</li></ul>                     |
+| [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       | <ul><li>Digitalgarden🍂</li></ul>                     |
+| [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul>                     |
+| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul> |
+| [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul>                     |
 
 { .block-language-dataview}
 
@@ -41,7 +40,6 @@ We will see how to work around with it.
 > | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]]     |
 > | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       |
 > | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             |
-> | [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]                                 |
 > | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                                     |
 > | [[Z Digital Garden/01 About the Garden/Chaotic's Garden Domain Name\|Chaotic's Garden Domain Name]]                             |
 > 

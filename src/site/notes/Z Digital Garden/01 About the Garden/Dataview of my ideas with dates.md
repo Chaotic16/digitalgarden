@@ -27,7 +27,6 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 | [[1 Categories in Digital Garden/Status - Forests🧶\|Status - Forests🧶]]                                                       | September 21, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                                                   | September 21, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]]                                                       | September 21, 2025 | February 10, 2026 |
-| [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]                                 | September 12, 2025 | February 10, 2026 |
 | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | September 21, 2025 | February 10, 2026 |
 
 { .block-language-dataview}
@@ -51,7 +50,6 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 > | ---------------------------------------------------------------------------------------------------------- |
 > | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
 > | [[1 Categories in Digital Garden/Status - Trees🌳🌲\|Status - Trees🌳🌲]]                               |
-> | [[Z Digital Garden/01 About the Garden/Tasks in my Digital Garden\|Tasks in my Digital Garden]]         |
 > | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                         |
 > 
 { .block-language-dataview}
