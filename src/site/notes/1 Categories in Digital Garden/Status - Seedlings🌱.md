@@ -16,7 +16,9 @@ Seedlings ---> Trees --- > Forests
 | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul>  |
 | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
 | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | <ul><li>Yoga</li><li>Body</li></ul>                    |
-| [[Z Digital Garden/04 Movies & TV Series/MCU Caste\|MCU Caste]]                                                                 | <ul><li>TVTropes</li></ul>                             |
+| [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 | <ul><li>breath</li><li>Yoga</li></ul>                  |
+| [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                                                         | <ul><li>TVTropes</li></ul>                             |
+| [[Weapons in Valorant\|Weapons in Valorant]]                                                                                    | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul>                      |
 
 { .block-language-dataview}
@@ -39,7 +41,9 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Connected Files
 >  | File                                                                                                                               |
 > | ---------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/04 Movies & TV Series/MCU Caste\|MCU Caste]]                                                                 |
+> | [[Weapons in Valorant\|Weapons in Valorant]]                                                                                    |
+> | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 |
+> | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                                                         |
 > | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] |
 > | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   |
 > | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           |

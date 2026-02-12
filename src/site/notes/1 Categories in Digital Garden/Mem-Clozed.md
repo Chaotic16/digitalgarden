@@ -13,11 +13,13 @@ In here the information is simply stored as underlined and nothing more. There i
 This is the database for them. 
 
 
-| File                                                                                                       | Tags                                                  |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul> |
-| [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                           | <ul><li>Yoga</li><li>Body</li></ul>                   |
-| [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]       | <ul><li>TVTropes</li></ul>                            |
+| File                                                                                                       | Tags                                                             |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul>            |
+| [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                           | <ul><li>Yoga</li><li>Body</li></ul>                              |
+| [[Z Digital Garden/03 Yoga Journey/Emotions vs Feelings\|Emotions vs Feelings]]                         | <ul><li>Body</li><li>Mind</li><li>Biology</li><li>Yoga</li></ul> |
+| [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]         | <ul><li>breath</li><li>Yoga</li></ul>                            |
+| [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]       | <ul><li>TVTropes</li></ul>                                       |
 
 { .block-language-dataview}
 
@@ -38,6 +40,8 @@ This is the database for them.
 > [!TIP]- Connected Files
 >  | File                                                                                                       |
 > | ---------------------------------------------------------------------------------------------------------- |
+> | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]         |
+> | [[Z Digital Garden/03 Yoga Journey/Emotions vs Feelings\|Emotions vs Feelings]]                         |
 > | [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]       |
 > | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                           |
 > | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
