@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/04-movies-and-tv-series/mcu-caste/","tags":["TVTropes"],"created":"2026-02-12T19:00:48.337+05:30","updated":"2026-02-12T19:01:59.989+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/04-movies-and-tv-series/mcu-caste/","tags":["TVTropes"],"created":"2026-02-12T19:00:48.337+05:30","updated":"2026-02-12T19:10:41.864+05:30"}
 ---
 
 
@@ -94,8 +94,7 @@ Here's a picture Quiz of some TV Characters I enjoyed watching
 ![Ravonna Renslayer.png|300](/img/user/2%20Base%20of%20Images/Ravonna%20Renslayer.png)
 
 >[!note]- Answer
->
- Gugu Mbatha Raw as Ravonna Renslayer
+>Gugu Mbatha Raw as Ravonna Renslayer
 
 
 
@@ -106,7 +105,6 @@ Here's a picture Quiz of some TV Characters I enjoyed watching
 ![Psylocke.png|360](/img/user/2%20Base%20of%20Images/Psylocke.png)
 
 >[!note]- Answer
->
  Olivia Munn as Psylocke.
 
 ---
