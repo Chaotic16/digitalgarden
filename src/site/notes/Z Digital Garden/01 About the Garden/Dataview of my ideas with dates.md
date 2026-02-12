@@ -13,14 +13,15 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- |
 | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       | February 12, 2026  | February 12, 2026 |
 | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                                   | February 12, 2026  | February 12, 2026 |
-| [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]]     | September 20, 2025 | February 12, 2026 |
 | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       | September 12, 2025 | February 12, 2026 |
 | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | September 21, 2025 | February 12, 2026 |
+| [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]]     | September 20, 2025 | February 12, 2026 |
 | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | September 12, 2025 | February 12, 2026 |
 | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           | October 12, 2025   | February 12, 2026 |
 | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]]                           | October 30, 2025   | February 12, 2026 |
 | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | October 31, 2025   | February 12, 2026 |
 | [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]                               | February 12, 2026  | February 12, 2026 |
+| [[Z Digital Garden/04 Movies & TV Series/MCU Characters\|MCU Characters]]                                                       | February 12, 2026  | February 12, 2026 |
 | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                                                 | September 12, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                                     | September 12, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]                                                                     | October 27, 2025   | February 10, 2026 |

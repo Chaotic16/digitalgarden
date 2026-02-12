@@ -35,8 +35,8 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Connected Files
 >  | File                                                                                                         |
 > | ------------------------------------------------------------------------------------------------------------ |
-> | [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]         |
 > | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]]     |
+> | [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]         |
 > | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] |
 > | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                               |
 > 

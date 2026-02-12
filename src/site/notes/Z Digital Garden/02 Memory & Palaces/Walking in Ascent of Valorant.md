@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/02-memory-and-palaces/walking-in-ascent-of-valorant/","tags":["Mindpalace🏛️","ValorantMaps"],"created":"2025-10-30T15:55:55.009+05:30","updated":"2026-02-12T13:39:45.035+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/02-memory-and-palaces/walking-in-ascent-of-valorant/","tags":["Mindpalace🏛️","ValorantMaps"],"created":"2025-10-30T15:55:55.009+05:30","updated":"2026-02-12T16:44:03.570+05:30"}
 ---
 
 🕸️[[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] , [[Valorant Maps\|Valorant Maps]]
