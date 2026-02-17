@@ -10,11 +10,12 @@ Seedlings ---> Trees --- > Forests
 
 | File                                                                                                                               | Tags                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [[Another way for Cloze\|Another way for Cloze]]                                                                                | <ul><li>Sports</li></ul>                               |
 | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul>                      |
 | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
 | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       | <ul><li>Memory🧠</li></ul>                             |
 | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                                   | <ul><li>Memory🧠</li></ul>                             |
-| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul>  |
+| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li></ul>                      |
 | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
 | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | <ul><li>Yoga</li><li>Body</li></ul>                    |
 | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 | <ul><li>breath</li><li>Yoga</li></ul>                  |
@@ -32,7 +33,7 @@ Seedlings ---> Trees --- > Forests
 > [!SUCCESS] File Information
 >  | File                                                                             | Created     | Last Modified | Edited     |
 > | -------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
-> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] | 21 Sep 2025 | 10 Feb 2026   | 2 days ago |
+> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] | 21 Sep 2025 | 10 Feb 2026   | 6 days ago |
 > 
 { .block-language-dataview}
 
@@ -41,6 +42,7 @@ Seedlings ---> Trees --- > Forests
 > [!TIP]- Connected Files
 >  | File                                                                                                                               |
 > | ---------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Another way for Cloze\|Another way for Cloze]]                                                                                |
 > | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] |
 > | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               |
 > | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 |

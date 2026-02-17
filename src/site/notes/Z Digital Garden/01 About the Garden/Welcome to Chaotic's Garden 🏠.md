@@ -67,9 +67,9 @@ Read more about the [[Z Digital Garden/01 About the Garden/Sources of Digital Ga
 
 
 > [!SUCCESS] File Information
->  | File                                                                                                       | Created     | Last Modified | Edited |
-> | ---------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | 12 Sep 2025 | 12 Feb 2026   | Today  |
+>  | File                                                                                                       | Created     | Last Modified | Edited     |
+> | ---------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
+> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | 12 Sep 2025 | 12 Feb 2026   | 4 days ago |
 > 
 { .block-language-dataview}
 

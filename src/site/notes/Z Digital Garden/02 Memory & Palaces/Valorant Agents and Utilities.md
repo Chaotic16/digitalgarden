@@ -50,9 +50,9 @@ I am making a table for this.
 
 
 > [!SUCCESS] File Information
->  | File                                                                                                     | Created     | Last Modified | Edited |
-> | -------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | 12 Oct 2025 | 12 Feb 2026   | Today  |
+>  | File                                                                                                     | Created     | Last Modified | Edited     |
+> | -------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
+> | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | 12 Oct 2025 | 12 Feb 2026   | 4 days ago |
 > 
 { .block-language-dataview}
 

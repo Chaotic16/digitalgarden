@@ -11,6 +11,7 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 
 | File                                                                                                                               | Planted on 🌱      | Last Tended 🌻    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- |
+| [[Another way for Cloze\|Another way for Cloze]]                                                                                | February 17, 2026  | February 17, 2026 |
 | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | September 21, 2025 | February 13, 2026 |
 | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]]                           | October 30, 2025   | February 13, 2026 |
 | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               | February 12, 2026  | February 13, 2026 |
@@ -21,10 +22,10 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | September 12, 2025 | February 12, 2026 |
 | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           | October 12, 2025   | February 12, 2026 |
 | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | October 31, 2025   | February 12, 2026 |
-| [[Z Digital Garden/03 Yoga Journey/Emotions vs Feelings\|Emotions vs Feelings]]                                                 | February 12, 2026  | February 12, 2026 |
 | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 | February 12, 2026  | February 12, 2026 |
-| [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]                               | February 12, 2026  | February 12, 2026 |
+| [[Z Digital Garden/03 Yoga Journey/Emotions vs Feelings\|Emotions vs Feelings]]                                                 | February 12, 2026  | February 12, 2026 |
 | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                                                         | February 12, 2026  | February 12, 2026 |
+| [[Z Digital Garden/04 Movies & TV Series/Moon Knight Clarifications\|Moon Knight Clarifications]]                               | February 12, 2026  | February 12, 2026 |
 | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                                                 | September 12, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                                     | September 12, 2025 | February 10, 2026 |
 | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]                                                                     | October 27, 2025   | February 10, 2026 |
@@ -41,9 +42,9 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 
 
 > [!SUCCESS] File Information
->  | File                                                                                                         | Created     | Last Modified | Edited |
-> | ------------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] | 12 Sep 2025 | 12 Feb 2026   | Today  |
+>  | File                                                                                                         | Created     | Last Modified | Edited     |
+> | ------------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ---------- |
+> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] | 12 Sep 2025 | 12 Feb 2026   | 4 days ago |
 > 
 { .block-language-dataview}
 

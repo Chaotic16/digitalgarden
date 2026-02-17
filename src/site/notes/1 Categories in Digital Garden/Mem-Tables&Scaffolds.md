@@ -23,9 +23,9 @@ Will talk about it more soon.
 
 
 > [!SUCCESS] File Information
->  | File                                                                             | Created     | Last Modified | Edited |
-> | -------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]] | 12 Feb 2026 | 12 Feb 2026   | Today  |
+>  | File                                                                             | Created     | Last Modified | Edited     |
+> | -------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
+> | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]] | 12 Feb 2026 | 12 Feb 2026   | 4 days ago |
 > 
 { .block-language-dataview}
 

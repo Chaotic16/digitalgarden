@@ -56,9 +56,9 @@ Can I remember all of them? Write them down on a piece of paper.
 
 
 > [!SUCCESS] File Information
->  | File                                                                                                     | Created     | Last Modified | Edited |
-> | -------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | 30 Oct 2025 | 13 Feb 2026   | Today  |
+>  | File                                                                                                     | Created     | Last Modified | Edited     |
+> | -------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
+> | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | 30 Oct 2025 | 13 Feb 2026   | 3 days ago |
 > 
 { .block-language-dataview}
 

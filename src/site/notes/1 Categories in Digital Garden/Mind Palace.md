@@ -27,7 +27,7 @@ We will see how to work around with it.
 > [!SUCCESS] File Information
 >  | File                                                           | Created     | Last Modified | Edited     |
 > | -------------------------------------------------------------- | ----------- | ------------- | ---------- |
-> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | 2 days ago |
+> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | 6 days ago |
 > 
 { .block-language-dataview}
 
