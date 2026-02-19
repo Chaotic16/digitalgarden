@@ -126,7 +126,7 @@ Give me
 > [!SUCCESS] File Information
 >  | File                                                                             | Created     | Last Modified | Edited     |
 > | -------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
-> | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]] | 31 Oct 2025 | 12 Feb 2026   | 4 days ago |
+> | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]] | 31 Oct 2025 | 12 Feb 2026   | 6 days ago |
 > 
 { .block-language-dataview}
 

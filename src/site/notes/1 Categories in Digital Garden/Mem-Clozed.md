@@ -32,7 +32,7 @@ This is the database for them.
 > [!SUCCESS] File Information
 >  | File                                                         | Created     | Last Modified | Edited     |
 > | ------------------------------------------------------------ | ----------- | ------------- | ---------- |
-> | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]] | 12 Feb 2026 | 12 Feb 2026   | 4 days ago |
+> | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]] | 12 Feb 2026 | 12 Feb 2026   | 6 days ago |
 > 
 { .block-language-dataview}
 

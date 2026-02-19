@@ -11,7 +11,7 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 
 | File                                                                                                                               | Planted on 🌱      | Last Tended 🌻    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- |
-| [[Another way for Cloze\|Another way for Cloze]]                                                                                | February 17, 2026  | February 17, 2026 |
+| [[Another way for Cloze\|Another way for Cloze]]                                                                                | February 17, 2026  | February 19, 2026 |
 | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | September 21, 2025 | February 13, 2026 |
 | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]]                           | October 30, 2025   | February 13, 2026 |
 | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               | February 12, 2026  | February 13, 2026 |
@@ -44,7 +44,7 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 > [!SUCCESS] File Information
 >  | File                                                                                                         | Created     | Last Modified | Edited     |
 > | ------------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ---------- |
-> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] | 12 Sep 2025 | 12 Feb 2026   | 4 days ago |
+> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] | 12 Sep 2025 | 12 Feb 2026   | 6 days ago |
 > 
 { .block-language-dataview}
 

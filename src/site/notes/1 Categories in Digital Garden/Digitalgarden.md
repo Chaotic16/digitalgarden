@@ -26,7 +26,7 @@ We will see how to work around with it.
 > [!SUCCESS] File Information
 >  | File                                                               | Created     | Last Modified | Edited     |
 > | ------------------------------------------------------------------ | ----------- | ------------- | ---------- |
-> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]] | 12 Sep 2025 | 10 Feb 2026   | 6 days ago |
+> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]] | 12 Sep 2025 | 10 Feb 2026   | 8 days ago |
 > 
 { .block-language-dataview}
 

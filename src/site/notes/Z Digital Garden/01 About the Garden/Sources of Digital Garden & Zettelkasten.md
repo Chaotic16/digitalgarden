@@ -77,7 +77,7 @@ Lastly, in 2025 I was introduced to [[Maggie Appleton\|Maggie Appleton]] and her
 > [!SUCCESS] File Information
 >  | File                                                                                                                           | Created     | Last Modified | Edited     |
 > | ------------------------------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ---------- |
-> | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | 20 Sep 2025 | 12 Feb 2026   | 4 days ago |
+> | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | 20 Sep 2025 | 12 Feb 2026   | 6 days ago |
 > 
 { .block-language-dataview}
 
