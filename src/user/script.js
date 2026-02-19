@@ -1,21 +1,30 @@
-window.addEventListener("load",()=>{
+function applyRecall(){
 
-  // convert all <u> to recall spans
   document.querySelectorAll("u").forEach(el=>{
+    if(el.classList.contains("recall-done")) return;
+
     const span=document.createElement("span");
     span.classList.add("recall");
     span.innerHTML=el.innerHTML;
+    span.onclick=()=>span.classList.toggle("revealed");
+
     el.replaceWith(span);
   });
 
-  // tap to reveal one
-  document.querySelectorAll(".recall").forEach(el=>{
-    el.addEventListener("click",()=>{
-      el.classList.toggle("revealed");
-    });
-  });
+}
 
-  // create top buttons
+const observer=new MutationObserver(()=>{
+  applyRecall();
+});
+
+observer.observe(document.body,{
+  childList:true,
+  subtree:true
+});
+
+window.addEventListener("load",()=>{
+  applyRecall();
+
   const controls=document.createElement("div");
   controls.classList.add("recall-controls");
 
@@ -41,4 +50,3 @@ window.addEventListener("load",()=>{
     .prepend(controls);
 
 });
-
