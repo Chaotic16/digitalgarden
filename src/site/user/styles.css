@@ -1,15 +1,22 @@
 .recall{
   color: transparent;
-  background: var(--background-modifier-border, #d1d5db);
-  border-radius: 4px;
-  padding: 0.1em 0.35em;
+  background: rgba(255, 214, 102, 0.25);
+  border: 1px solid rgba(255, 214, 102, 0.6);
+  border-radius: 6px;
+  padding: 0.1em 0.4em;
   cursor: pointer;
-  transition: 0.2s;
+  transition: 0.2s ease;
 }
+
+.recall:active{
+  background: rgba(255, 214, 102, 0.4);
+}
+
 
 .recall.revealed{
   color: inherit;
   background: transparent;
+  border: none;
 }
 
 .recall-controls{
