@@ -44,7 +44,7 @@ So you can look into it effectively.
 > [!SUCCESS] File Information
 >  | File                                                                                                                               | Created     | Last Modified | Edited     |
 > | ---------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
-> | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | 21 Sep 2025 | 13 Feb 2026   | 5 days ago |
+> | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | 21 Sep 2025 | 13 Feb 2026   | 6 days ago |
 > 
 { .block-language-dataview}
 

@@ -17,7 +17,7 @@ Here's a list of Weapons in Valorant, another stuff that can be used as a scaffo
 > [!SUCCESS] File Information
 >  | File                                                                                 | Created     | Last Modified | Edited     |
 > | ------------------------------------------------------------------------------------ | ----------- | ------------- | ---------- |
-> | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]] | 12 Feb 2026 | 13 Feb 2026   | 5 days ago |
+> | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]] | 12 Feb 2026 | 13 Feb 2026   | 6 days ago |
 > 
 { .block-language-dataview}
 

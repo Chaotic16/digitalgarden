@@ -137,7 +137,7 @@ By practicing intention setting and developing a deeper understanding of your em
 > [!SUCCESS] File Information
 >  | File                                                                               | Created     | Last Modified | Edited     |
 > | ---------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
-> | [[Z Digital Garden/03 Yoga Journey/Emotions vs Feelings\|Emotions vs Feelings]] | 12 Feb 2026 | 12 Feb 2026   | 6 days ago |
+> | [[Z Digital Garden/03 Yoga Journey/Emotions vs Feelings\|Emotions vs Feelings]] | 12 Feb 2026 | 12 Feb 2026   | 7 days ago |
 > 
 { .block-language-dataview}
 

@@ -77,18 +77,17 @@ Lastly, in 2025 I was introduced to [[Maggie Appleton\|Maggie Appleton]] and her
 > [!SUCCESS] File Information
 >  | File                                                                                                                           | Created     | Last Modified | Edited     |
 > | ------------------------------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ---------- |
-> | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | 20 Sep 2025 | 12 Feb 2026   | 6 days ago |
+> | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | 20 Sep 2025 | 12 Feb 2026   | 7 days ago |
 > 
 { .block-language-dataview}
 
 
 
 > [!TIP]- Connected Files
->  | File                                                                                                       |
-> | ---------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
-> | [[1 Categories in Digital Garden/Status - Forests🧶\|Status - Forests🧶]]                               |
-> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                         |
+>  | File                                                                         |
+> | ---------------------------------------------------------------------------- |
+> | [[1 Categories in Digital Garden/Status - Forests🧶\|Status - Forests🧶]] |
+> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]           |
 > 
 { .block-language-dataview}
 

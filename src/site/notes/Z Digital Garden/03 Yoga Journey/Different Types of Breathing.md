@@ -47,7 +47,7 @@ The Buteyko method is a breathing technique that involves <u>nasal</u> breathing
 > [!SUCCESS] File Information
 >  | File                                                                                               | Created     | Last Modified | Edited     |
 > | -------------------------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
-> | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]] | 12 Feb 2026 | 12 Feb 2026   | 6 days ago |
+> | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]] | 12 Feb 2026 | 12 Feb 2026   | 7 days ago |
 > 
 { .block-language-dataview}
 

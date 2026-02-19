@@ -12,9 +12,9 @@ These are all the ideas that I have been working on from quite a long time. They
 
 | File                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------- |
+| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
 | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                               |
 | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                           |
-| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
 | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                         |
 | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                             |
 | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]]                                             |
@@ -35,7 +35,7 @@ These are all the ideas that I have been working on from quite a long time. They
 > [!SUCCESS] File Information
 >  | File                                                                           | Created     | Last Modified | Edited     |
 > | ------------------------------------------------------------------------------ | ----------- | ------------- | ---------- |
-> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] | 12 Sep 2025 | 10 Feb 2026   | 8 days ago |
+> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] | 12 Sep 2025 | 10 Feb 2026   | 9 days ago |
 > 
 { .block-language-dataview}
 
