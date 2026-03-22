@@ -13,31 +13,27 @@ This is helpful in spatial learning.
 Will talk about it more soon.
 
 
-| File                                                                                                     | Tags                                                 |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li><li>ValorantMaps</li></ul> |
-| [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                               | <ul><li>TVTropes</li></ul>                           |
+| File | Tags |
+| ---- | ---- |
 
 { .block-language-dataview}
 ---
 
 
 > [!SUCCESS] File Information
->  | File                                                                             | Created     | Last Modified | Edited     |
-> | -------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
-> | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]] | 12 Feb 2026 | 12 Feb 2026   | 7 days ago |
+>  | File                                                                             | Created     | Last Modified | Edited      |
+> | -------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
+> | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]] | 12 Feb 2026 | 12 Feb 2026   | 39 days ago |
 > 
 { .block-language-dataview}
 
 
 
 > [!TIP]- Connected Files
->  | File                                                                                                     |
-> | -------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] |
-> | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                               |
-> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                         |
-> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                           |
+>  | File                                                                             |
+> | -------------------------------------------------------------------------------- |
+> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] |
+> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]   |
 > 
 { .block-language-dataview}
 

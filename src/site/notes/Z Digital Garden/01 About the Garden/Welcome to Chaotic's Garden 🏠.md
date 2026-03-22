@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/01-about-the-garden/welcome-to-chaotic-s-garden/","tags":["Digitalgarden🍂","gardenEntry"],"created":"2025-09-12T10:28:39.968+05:30","updated":"2026-02-20T00:59:50.219+05:30"}
+{"dg-publish":true,"permalink":"/z-digital-garden/01-about-the-garden/welcome-to-chaotic-s-garden/","tags":["Digitalgarden🍂","gardenEntry"],"created":"2025-09-12T10:28:39.968+05:30","updated":"2026-02-21T13:55:35.112+05:30"}
 ---
 
 
 🕸️[[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]] ,  [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]
 [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]
 
-Note : Visit [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] to better understand how I am currently working in my Digital Garden.
+Note : Visit [[Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] to better understand how I am currently working in my Digital Garden.
 # Welcome to Chaotic's Digital Garden 🏠
 
 
@@ -49,7 +49,7 @@ Note : Visit [[Z Digital Garden/01 About the Garden/Properties & Workflow of my 
 >
 > - My structure is divided into 2. Working on Ideas and Organizing my ideas. 
 > - You can see all my growth log here. [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]
-> - My workflow and properties of the Garden are explained here. [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]]
+> - My workflow and properties of the Garden are explained here. [[Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]]
 > - You can go through my [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] in the Garden here.
 > - You can go through the progress log of my garden here. [[Tasks in my Digital Garden\|Tasks in my Digital Garden]]
 > 
@@ -63,27 +63,26 @@ Note : Visit [[Z Digital Garden/01 About the Garden/Properties & Workflow of my 
 ---
 
 
-
 ---
 
 
+
 > [!SUCCESS] File Information
->  | File                                                                                                       | Created     | Last Modified | Edited |
-> | ---------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | 12 Sep 2025 | 20 Feb 2026   | Today  |
+>  | File                                                                                                       | Created     | Last Modified | Edited      |
+> | ---------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
+> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | 12 Sep 2025 | 21 Feb 2026   | 30 days ago |
 > 
 { .block-language-dataview}
 
 
 
 > [!TIP]- Connected Files
->  | File                                                                                                                               |
-> | ---------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] |
-> | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       |
-> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                       |
-> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                                                   |
-> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                                     |
-> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                                                 |
+>  | File                                                                                                         |
+> | ------------------------------------------------------------------------------------------------------------ |
+> | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                 |
+> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] |
+> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                             |
+> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                               |
+> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                           |
 > 
 { .block-language-dataview}

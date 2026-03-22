@@ -10,11 +10,8 @@ This is a category.
 All the backlinks can be displayed here in the form of cards maybe. 
 We will see how to work around with it. 
 
-| File                                                                                                     | Tags                                                   |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] | <ul><li>Mindpalace🏛️</li><li>ValorantMaps</li></ul>   |
-| [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                     | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
-| [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
+| File | Tags |
+| ---- | ---- |
 
 { .block-language-dataview}
 
@@ -25,20 +22,17 @@ We will see how to work around with it.
 
 
 > [!SUCCESS] File Information
->  | File                                                           | Created     | Last Modified | Edited     |
-> | -------------------------------------------------------------- | ----------- | ------------- | ---------- |
-> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | 9 days ago |
+>  | File                                                           | Created     | Last Modified | Edited      |
+> | -------------------------------------------------------------- | ----------- | ------------- | ----------- |
+> | [[1 Categories in Digital Garden/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | 41 days ago |
 > 
 { .block-language-dataview}
 
 
 
 > [!TIP]- Connected Files
->  | File                                                                                                     |
-> | -------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                     |
-> | [[Z Digital Garden/02 Memory & Palaces/Walking in Ascent of Valorant\|Walking in Ascent of Valorant]] |
-> | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]] |
-> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                           |
+>  | File                                                                           |
+> | ------------------------------------------------------------------------------ |
+> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] |
 > 
 { .block-language-dataview}

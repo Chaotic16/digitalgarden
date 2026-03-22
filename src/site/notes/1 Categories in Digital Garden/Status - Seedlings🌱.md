@@ -8,20 +8,12 @@ These are all the ideas that I have recently planted and I am still nourishing t
 
 Seedlings ---> Trees --- > Forests
 
-| File                                                                                                                               | Tags                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [[Super Heroes I enjoy\|Super Heroes I enjoy]]                                                                                  | <ul><li>TVTropes</li></ul>                             |
-| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         | <ul><li>Digitalgarden🍂</li></ul>                      |
-| [[Winter Olympics 2026\|Winter Olympics 2026]]                                                                                  | <ul><li>Sports</li></ul>                               |
-| [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] | <ul><li>Digitalgarden🍂</li></ul>                      |
-| [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               | <ul><li>Mindpalace🏛️</li><li>Valorant</li></ul>       |
-| [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       | <ul><li>Memory🧠</li></ul>                             |
-| [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                                   | <ul><li>Memory🧠</li></ul>                             |
-| [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           | <ul><li>Mindpalace🏛️</li><li>ValorantAgents</li></ul> |
-| [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   | <ul><li>Yoga</li><li>Body</li></ul>                    |
-| [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 | <ul><li>breath</li><li>Yoga</li></ul>                  |
-| [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                                                         | <ul><li>TVTropes</li></ul>                             |
-| [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             | <ul><li>Digitalgarden🍂</li></ul>                      |
+| File                                                                                                                   | Tags                              |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]             | <ul><li>Digitalgarden🍂</li></ul> |
+| [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                           | <ul><li>Memory🧠</li></ul>        |
+| [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                       | <ul><li>Memory🧠</li></ul>        |
+| [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] | <ul><li>Digitalgarden🍂</li></ul> |
 
 { .block-language-dataview}
 
@@ -32,29 +24,21 @@ Seedlings ---> Trees --- > Forests
 
 
 > [!SUCCESS] File Information
->  | File                                                                             | Created     | Last Modified | Edited     |
-> | -------------------------------------------------------------------------------- | ----------- | ------------- | ---------- |
-> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] | 21 Sep 2025 | 10 Feb 2026   | 9 days ago |
+>  | File                                                                             | Created     | Last Modified | Edited      |
+> | -------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
+> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] | 21 Sep 2025 | 10 Feb 2026   | 41 days ago |
 > 
 { .block-language-dataview}
 
 
 
 > [!TIP]- Connected Files
->  | File                                                                                                                               |
-> | ---------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Super Heroes I enjoy\|Super Heroes I enjoy]]                                                                                  |
-> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                         |
-> | [[Winter Olympics 2026\|Winter Olympics 2026]]                                                                                  |
-> | [[Z Digital Garden/01 About the Garden/Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] |
-> | [[Z Digital Garden/02 Memory & Palaces/Weapons in Valorant\|Weapons in Valorant]]                                               |
-> | [[Z Digital Garden/03 Yoga Journey/Different Types of Breathing\|Different Types of Breathing]]                                 |
-> | [[Z Digital Garden/04 Movies & TV Series/MCU Star Cast\|MCU Star Cast]]                                                         |
-> | [[Z Digital Garden/03 Yoga Journey/Balancing on a Beam\|Balancing on a Beam]]                                                   |
-> | [[Z Digital Garden/02 Memory & Palaces/Valorant Agents and Utilities\|Valorant Agents and Utilities]]                           |
-> | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                                   |
-> | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                       |
-> | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]             |
-> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                                     |
+>  | File                                                                                                                   |
+> | ---------------------------------------------------------------------------------------------------------------------- |
+> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]             |
+> | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                       |
+> | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                           |
+> | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] |
+> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                                         |
 > 
 { .block-language-dataview}
