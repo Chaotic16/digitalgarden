@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/z-digital-garden/01-about-the-garden/chaotic-s-garden-domain-name/","tags":["Digitalgarden🍂"],"created":"2025-09-12T11:45:34.520+05:30","updated":"2026-03-24T17:51:08.594+05:30"}
+---
+
+
+🕸️[[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]
+
+
+## Here's a list of official details important for this Garden
+
+- My domain name - This has changed to https://academicgarden.pages.dev/ ( since we will be talking about only our learnings here)
+- It is all connected to Github, then deployed by Cloudfare pages
+
+
+
+---
+
+
+> [!SUCCESS] File Information
+>  | File                                                                                                   | Created     | Last Modified | Edited |
+> | ------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ------ |
+> | [[Z Digital Garden/01 About the Garden/Chaotic's Garden Domain Name\|Chaotic's Garden Domain Name]] | 12 Sep 2025 | 24 Mar 2026   | Today  |
+> 
+{ .block-language-dataview}
+
+
+
+> [!TIP]- Connected Files
+>  | File                                                               |
+> | ------------------------------------------------------------------ |
+> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]] |
+> 
+{ .block-language-dataview}
