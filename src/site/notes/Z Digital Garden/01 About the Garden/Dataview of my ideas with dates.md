@@ -11,7 +11,7 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 
 | File                                                                                                                           | Planted on 🌱      | Last Tended 🌻    |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ----------------- |
-| [[NABARD Syllabus Pics\|NABARD Syllabus Pics]]                                                                              | March 17, 2026     | March 22, 2026    |
+| [[NABARD Syllabus Pics\|NABARD Syllabus Pics]]                                                                              | March 17, 2026     | March 24, 2026    |
 | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                     | September 12, 2025 | February 21, 2026 |
 | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                                   | February 12, 2026  | February 12, 2026 |
 | [[1 Categories in Digital Garden/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                                               | February 12, 2026  | February 12, 2026 |
@@ -35,7 +35,7 @@ This the list of all the ideas I have been working on in my Digital Garden. Idea
 > [!SUCCESS] File Information
 >  | File                                                                                                         | Created     | Last Modified | Edited      |
 > | ------------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ----------- |
-> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] | 12 Sep 2025 | 12 Feb 2026   | 39 days ago |
+> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] | 12 Sep 2025 | 12 Feb 2026   | 41 days ago |
 > 
 { .block-language-dataview}
 

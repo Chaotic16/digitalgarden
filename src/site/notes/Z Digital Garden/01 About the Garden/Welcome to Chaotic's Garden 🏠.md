@@ -70,7 +70,7 @@ Note : Visit [[Properties & Workflow of my digital garden\|Properties & Workflow
 > [!SUCCESS] File Information
 >  | File                                                                                                       | Created     | Last Modified | Edited      |
 > | ---------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
-> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | 12 Sep 2025 | 21 Feb 2026   | 30 days ago |
+> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | 12 Sep 2025 | 21 Feb 2026   | 32 days ago |
 > 
 { .block-language-dataview}
 
