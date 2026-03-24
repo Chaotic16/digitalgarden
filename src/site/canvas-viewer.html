@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Canvas Viewer</title>
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@xyflow/react@12/dist/umd/index.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/@xyflow/react@12/dist/style.css"/>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: sans-serif; background: #1a1a2e; color: #eee; }
+    #header { padding: 12px 20px; background: #16213e; display: flex; 
+               align-items: center; gap: 12px; border-bottom: 1px solid #0f3460; }
+    #header h1 { font-size: 1rem; font-weight: 600; }
+    #flow-container { width: 100vw; height: calc(100vh - 48px); }
+    #error { display:none; padding: 2rem; color: #ff6b6b; }
+    /* Node styles */
+    .obs-node { background: #16213e; border: 1px solid #0f3460; 
+                border-radius: 8px; padding: 12px; font-size: 13px;
+                min-width: 150px; max-width: 300px; color: #eee; }
+    .obs-node.color-1 { border-color: #e74c3c; }
+    .obs-node.color-2 { border-color: #e67e22; }
+    .obs-node.color-3 { border-color: #f1c40f; }
+    .obs-node.color-4 { border-color: #2ecc71; }
+    .obs-node.color-5 { border-color: #3498db; }
+    .obs-node.color-6 { border-color: #9b59b6; }
+    .obs-node .node-type { font-size: 10px; opacity: 0.5; 
+                            text-transform: uppercase; margin-bottom: 4px; }
+    .obs-node .node-label { word-break: break-word; }
+    .obs-node a { color: #7eb8f7; text-decoration: none; }
+    .obs-node a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div id="header">
+    <a href="/" style="color:#7eb8f7; text-decoration:none">← Garden</a>
+    <h1 id="canvas-title">Canvas Viewer</h1>
+  </div>
+  <div id="flow-container"></div>
+  <div id="error"></div>
+
+  <script>
+    // ── 1. Read ?file= param ──────────────────────────────────────────────
+    const params  = new URLSearchParams(location.search);
+    const fileUrl = params.get('file');        // e.g. ?file=/canvas/world-map.json
+    const title   = params.get('title') || 'Canvas';
+    document.getElementById('canvas-title').textContent = title;
+
+    // ── 2. Obsidian color map ─────────────────────────────────────────────
+    const COLOR_MAP = {
+      '1': '#e74c3c', '2': '#e67e22', '3': '#f1c40f',
+      '4': '#2ecc71', '5': '#3498db', '6': '#9b59b6'
+    };
+
+    // ── 3. Convert canvas JSON → React Flow format ────────────────────────
+    function convertCanvas(data) {
+      const rfNodes = (data.nodes || []).map(n => ({
+        id: n.id,
+        position: { x: n.x, y: n.y },
+        style: { width: n.width, minHeight: n.height },
+        data: {
+          label: buildNodeLabel(n),
+          colorClass: n.color ? `color-${n.color}` : '',
+          borderColor: COLOR_MAP[n.color] || '#0f3460',
+          nodeType: n.type,
+        },
+        type: 'obsidianNode',
+      }));
+
+      const rfEdges = (data.edges || []).map(e => ({
+        id: e.id,
+        source: e.fromNode,
+        target: e.toNode,
+        label: e.label || '',
+        type: 'smoothstep',
+        animated: false,
+        style: { stroke: '#7eb8f7', strokeWidth: 1.5 },
+        labelStyle: { fill: '#eee', fontSize: 11 },
+        labelBgStyle: { fill: '#16213e', fillOpacity: 0.8 },
+      }));
+
+      return { rfNodes, rfEdges };
+    }
+
+    function buildNodeLabel(n) {
+      if (n.type === 'text')  return n.text || '';
+      if (n.type === 'file')  return `📄 ${n.file?.split('/').pop()?.replace('.md','') || n.file}`;
+      if (n.type === 'link')  return `🔗 ${n.url || ''}`;
+      if (n.type === 'group') return `▣ ${n.label || 'Group'}`;
+      return n.label || n.id;
+    }
+
+    // ── 4. Custom node component (rendered as string for UMD build) ───────
+    const { createElement: h, useState } = React;
+    const { Handle, Position, ReactFlow, Background, Controls, MiniMap } = ReactFlowLib;
+
+    function ObsidianNode({ data }) {
+      return h('div', {
+        className: `obs-node ${data.colorClass}`,
+        style: { borderColor: data.borderColor }
+      },
+        h('div', { className: 'node-type' }, data.nodeType),
+        h('div', { className: 'node-label' }, data.label),
+        h(Handle, { type: 'target', position: Position.Top }),
+        h(Handle, { type: 'source', position: Position.Bottom }),
+      );
+    }
+
+    const nodeTypes = { obsidianNode: ObsidianNode };
+
+    function CanvasApp({ nodes, edges }) {
+      return h('div', { style: { width: '100%', height: '100%' } },
+        h(ReactFlow, {
+          nodes, edges, nodeTypes,
+          fitView: true,
+          minZoom: 0.1,
+          maxZoom: 2,
+          proOptions: { hideAttribution: false },
+        },
+          h(Background, { color: '#0f3460', gap: 24 }),
+          h(Controls),
+          h(MiniMap, { nodeColor: '#0f3460', maskColor: 'rgba(0,0,0,0.6)' }),
+        )
+      );
+    }
+
+    // ── 5. Fetch and render ───────────────────────────────────────────────
+    async function init() {
+      if (!fileUrl) {
+        showError('No canvas file specified. Use ?file=/canvas/myfile.json&title=My+Canvas');
+        return;
+      }
+      try {
+        const res  = await fetch(fileUrl);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        const { rfNodes, rfEdges } = convertCanvas(data);
+
+        ReactDOM.createRoot(document.getElementById('flow-container'))
+          .render(h(CanvasApp, { nodes: rfNodes, edges: rfEdges }));
+      } catch(err) {
+        showError(`Failed to load canvas: ${err.message}`);
+      }
+    }
+
+    function showError(msg) {
+      const el = document.getElementById('error');
+      el.style.display = 'block';
+      el.textContent = msg;
+    }
+
+    init();
+  </script>
+</body>
+</html>
