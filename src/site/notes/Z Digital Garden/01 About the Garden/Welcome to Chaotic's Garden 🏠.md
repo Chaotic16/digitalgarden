@@ -3,8 +3,8 @@
 ---
 
 
-🕸️[[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]] ,  [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]
-[[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]
+🕸️[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]] ,  [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]]
+[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]]
 
 Note : Visit [[Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] to better understand how I am currently working in my Digital Garden.
 # Welcome to Chaotic's Digital Garden 🏠
@@ -50,7 +50,7 @@ Note : Visit [[Properties & Workflow of my digital garden\|Properties & Workflow
 > - My structure is divided into 2. Working on Ideas and Organizing my ideas. 
 > - You can see all my growth log here. [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]
 > - My workflow and properties of the Garden are explained here. [[Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]]
-> - You can go through my [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]] in the Garden here.
+> - You can go through my [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]] in the Garden here.
 > - You can go through the progress log of my garden here. [[Tasks in my Digital Garden\|Tasks in my Digital Garden]]
 > 
 
@@ -70,19 +70,19 @@ Note : Visit [[Properties & Workflow of my digital garden\|Properties & Workflow
 > [!SUCCESS] File Information
 >  | File                                                                                                       | Created     | Last Modified | Edited      |
 > | ---------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
-> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | 12 Sep 2025 | 21 Feb 2026   | 32 days ago |
+> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | 12 Sep 2025 | 21 Feb 2026   | 79 days ago |
 > 
 { .block-language-dataview}
 
 
 
 > [!TIP]- Connected Files
->  | File                                                                                                         |
-> | ------------------------------------------------------------------------------------------------------------ |
-> | [[1 Categories in Digital Garden/Mem-Clozed\|Mem-Clozed]]                                                 |
-> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] |
-> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]                             |
-> | [[1 Categories in Digital Garden/Index of Categories\|Index of Categories]]                               |
-> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]                                           |
+>  | File                                                                                                          |
+> | ------------------------------------------------------------------------------------------------------------- |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]]                     |
+> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]]  |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]] |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]   |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]]               |
 > 
 { .block-language-dataview}

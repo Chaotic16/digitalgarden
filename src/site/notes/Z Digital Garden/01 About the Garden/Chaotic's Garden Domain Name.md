@@ -3,7 +3,7 @@
 ---
 
 
-🕸️[[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]
+🕸️[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]]
 
 
 ## Here's a list of official details important for this Garden
@@ -17,17 +17,17 @@
 
 
 > [!SUCCESS] File Information
->  | File                                                                                                   | Created     | Last Modified | Edited |
-> | ------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ------ |
-> | [[Z Digital Garden/01 About the Garden/Chaotic's Garden Domain Name\|Chaotic's Garden Domain Name]] | 12 Sep 2025 | 24 Mar 2026   | Today  |
+>  | File                                                                                                   | Created     | Last Modified | Edited      |
+> | ------------------------------------------------------------------------------------------------------ | ----------- | ------------- | ----------- |
+> | [[Z Digital Garden/01 About the Garden/Chaotic's Garden Domain Name\|Chaotic's Garden Domain Name]] | 12 Sep 2025 | 24 Mar 2026   | 46 days ago |
 > 
 { .block-language-dataview}
 
 
 
 > [!TIP]- Connected Files
->  | File                                                               |
-> | ------------------------------------------------------------------ |
-> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]] |
+>  | File                                                                                            |
+> | ----------------------------------------------------------------------------------------------- |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]] |
 > 
 { .block-language-dataview}

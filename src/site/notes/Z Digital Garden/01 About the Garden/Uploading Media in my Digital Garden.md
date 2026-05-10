@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/z-digital-garden/01-about-the-garden/uploading-media-in-my-digital-garden/","tags":["Digitalgarden🍂"],"created":"2025-09-21T13:20:17.851+05:30","updated":"2026-02-10T19:28:26.376+05:30"}
 ---
 
-🕸️[[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]
-[[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]]
+🕸️[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]]
+[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]]
 
 
 Three types of Attachments exist. 
@@ -50,16 +50,16 @@ As of February 2025, you are also using Self-hosting services so you can use the
 > [!SUCCESS] File Information
 >  | File                                                                                                                   | Created     | Last Modified | Edited      |
 > | ---------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
-> | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] | 21 Sep 2025 | 10 Feb 2026   | 43 days ago |
+> | [[Z Digital Garden/01 About the Garden/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] | 21 Sep 2025 | 10 Feb 2026   | 90 days ago |
 > 
 { .block-language-dataview}
 
 
 
 > [!TIP]- Connected Files
->  | File                                                                             |
-> | -------------------------------------------------------------------------------- |
-> | [[1 Categories in Digital Garden/Status - Seedlings🌱\|Status - Seedlings🌱]] |
-> | [[1 Categories in Digital Garden/Digitalgarden\|Digitalgarden]]               |
+>  | File                                                                                                          |
+> | ------------------------------------------------------------------------------------------------------------- |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]] |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]]               |
 > 
 { .block-language-dataview}
