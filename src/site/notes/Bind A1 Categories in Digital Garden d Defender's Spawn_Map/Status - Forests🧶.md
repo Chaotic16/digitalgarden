@@ -8,9 +8,9 @@ These are all the ideas that have grown and become forests in my Garden.
 
 Seedlings ---> Trees --- > Forests
 
-| File                                                                                                                           | Tags                              |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- |
-| [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | <ul><li>Digitalgarden🍂</li></ul> |
+| File                                                                                                                                      | Tags                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | <ul><li>Digitalgarden🍂</li></ul> |
 
 { .block-language-dataview}
 
@@ -30,9 +30,9 @@ Seedlings ---> Trees --- > Forests
 
 
 > [!TIP]- Connected Files
->  | File                                                                                                                           |
-> | ------------------------------------------------------------------------------------------------------------------------------ |
-> | [[Z Digital Garden/01 About the Garden/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]                    |
+>  | File                                                                                                                                      |
+> | ----------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Bind A3 Meta Setups of this Garden d A nATS_Map/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]                               |
 > 
 { .block-language-dataview}

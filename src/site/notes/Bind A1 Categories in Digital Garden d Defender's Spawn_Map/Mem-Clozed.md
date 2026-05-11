@@ -13,9 +13,9 @@ In here the information is simply stored as underlined and nothing more. There i
 This is the database for them. 
 
 
-| File                                                                                                       | Tags                              |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | <ul><li>Digitalgarden🍂</li></ul> |
+| File                                                                                                                  | Tags                                                  |
+| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul> |
 
 { .block-language-dataview}
 
@@ -34,11 +34,11 @@ This is the database for them.
 
 
 > [!TIP]- Connected Files
->  | File                                                                                                          |
-> | ------------------------------------------------------------------------------------------------------------- |
-> | [[Z Digital Garden/01 About the Garden/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]    |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]] |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]   |
+>  | File                                                                                                                  |
+> | --------------------------------------------------------------------------------------------------------------------- |
+> | [[Bind A3 Meta Setups of this Garden d A nATS_Map/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]]         |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]           |
 > 
 { .block-language-dataview}
 

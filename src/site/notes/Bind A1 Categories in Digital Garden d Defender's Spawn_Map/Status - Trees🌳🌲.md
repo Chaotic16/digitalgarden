@@ -11,9 +11,9 @@ Seedlings ---> Trees --- > Forests
 
 
 
-| File                                                                                                         | Tags                              |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------- |
-| [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] | <ul><li>Digitalgarden🍂</li></ul> |
+| File                                                                                                                    | Tags                              |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Dataview of my ideas with dates\|Dataview of my ideas with dates]] | <ul><li>Digitalgarden🍂</li></ul> |
 
 { .block-language-dataview}
 
@@ -31,9 +31,9 @@ Seedlings ---> Trees --- > Forests
 
 
 > [!TIP]- Connected Files
->  | File                                                                                                         |
-> | ------------------------------------------------------------------------------------------------------------ |
-> | [[Z Digital Garden/01 About the Garden/Dataview of my ideas with dates\|Dataview of my ideas with dates]] |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]  |
+>  | File                                                                                                                    |
+> | ----------------------------------------------------------------------------------------------------------------------- |
+> | [[Bind A3 Meta Setups of this Garden d A nATS_Map/Dataview of my ideas with dates\|Dataview of my ideas with dates]] |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]             |
 > 
 { .block-language-dataview}
