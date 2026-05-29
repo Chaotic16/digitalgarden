@@ -13,9 +13,9 @@ In here the information is simply stored as underlined and nothing more. There i
 This is the database for them. 
 
 
-| File                                                                                                                  | Tags                                                  |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul> |
+| File                                                                                                                  | Tags                              |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]] | <ul><li>Digitalgarden🍂</li></ul> |
 
 { .block-language-dataview}
 
@@ -25,9 +25,9 @@ This is the database for them.
 
 
 > [!SUCCESS] File Information
->  | File                                                                                      | Created     | Last Modified | Edited      |
-> | ----------------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]] | 12 Feb 2026 | 12 Feb 2026   | 90 days ago |
+>  | File                                                                                      | Created     | Last Modified | Edited       |
+> | ----------------------------------------------------------------------------------------- | ----------- | ------------- | ------------ |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]] | 12 Feb 2026 | 12 Feb 2026   | 106 days ago |
 > 
 { .block-language-dataview}
 

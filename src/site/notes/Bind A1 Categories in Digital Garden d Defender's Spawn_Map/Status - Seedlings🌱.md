@@ -8,12 +8,12 @@ These are all the ideas that I have recently planted and I am still nourishing t
 
 Seedlings ---> Trees --- > Forests
 
-| File                                                                                                                              | Tags                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]             | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul> |
-| [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]]                                         | <ul><li>Memory🧠</li></ul>                            |
-| [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                     | <ul><li>Memory🧠</li></ul>                            |
-| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] | <ul><li>Digitalgarden🍂</li></ul>                     |
+| File                                                                                                                              | Tags                              |
+| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]             | <ul><li>Digitalgarden🍂</li></ul> |
+| [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]]                                         | <ul><li>Memory🧠</li></ul>        |
+| [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Tables&Scaffolds\|Mem-Tables&Scaffolds]]                     | <ul><li>Memory🧠</li></ul>        |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] | <ul><li>Digitalgarden🍂</li></ul> |
 
 { .block-language-dataview}
 
@@ -24,9 +24,9 @@ Seedlings ---> Trees --- > Forests
 
 
 > [!SUCCESS] File Information
->  | File                                                                                                          | Created     | Last Modified | Edited      |
-> | ------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]] | 21 Sep 2025 | 10 Feb 2026   | 90 days ago |
+>  | File                                                                                                          | Created     | Last Modified | Edited       |
+> | ------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------ |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]] | 21 Sep 2025 | 10 Feb 2026   | 108 days ago |
 > 
 { .block-language-dataview}
 

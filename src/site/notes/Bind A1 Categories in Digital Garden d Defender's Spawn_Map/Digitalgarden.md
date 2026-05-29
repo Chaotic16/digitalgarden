@@ -10,13 +10,13 @@ This is a category.
 All the backlinks can be displayed here in the form of cards maybe. 
 We will see how to work around with it. 
 
-| File                                                                                                                                      | Tags                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Chaotic's Garden Domain Name\|Chaotic's Garden Domain Name]]                         | <ul><li>Digitalgarden🍂</li></ul>                     |
-| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                     | <ul><li>Digitalgarden🍂</li><li>gardenEntry</li></ul> |
-| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                   | <ul><li>Digitalgarden🍂</li></ul>                     |
-| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | <ul><li>Digitalgarden🍂</li></ul>                     |
-| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]         | <ul><li>Digitalgarden🍂</li></ul>                     |
+| File                                                                                                                                      | Tags                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Chaotic's Garden Domain Name\|Chaotic's Garden Domain Name]]                         | <ul><li>Digitalgarden🍂</li></ul> |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Welcome to Chaotic's Garden 🏠\|Welcome to Chaotic's Garden 🏠]]                     | <ul><li>Digitalgarden🍂</li></ul> |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Dataview of my ideas with dates\|Dataview of my ideas with dates]]                   | <ul><li>Digitalgarden🍂</li></ul> |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Sources of Digital Garden & Zettelkasten\|Sources of Digital Garden & Zettelkasten]] | <ul><li>Digitalgarden🍂</li></ul> |
+| [[Bind A3 Meta Setups of this Garden d A nATS_Map/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]]         | <ul><li>Digitalgarden🍂</li></ul> |
 
 { .block-language-dataview}
 
@@ -24,9 +24,9 @@ We will see how to work around with it.
 
 
 > [!SUCCESS] File Information
->  | File                                                                                            | Created     | Last Modified | Edited      |
-> | ----------------------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]] | 12 Sep 2025 | 10 Feb 2026   | 90 days ago |
+>  | File                                                                                            | Created     | Last Modified | Edited       |
+> | ----------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------ |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]] | 12 Sep 2025 | 10 Feb 2026   | 108 days ago |
 > 
 { .block-language-dataview}
 

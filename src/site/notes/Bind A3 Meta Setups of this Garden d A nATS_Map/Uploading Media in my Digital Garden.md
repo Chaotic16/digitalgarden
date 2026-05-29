@@ -48,9 +48,9 @@ As of February 2025, you are also using Self-hosting services so you can use the
 
 
 > [!SUCCESS] File Information
->  | File                                                                                                                              | Created     | Last Modified | Edited      |
-> | --------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ----------- |
-> | [[Bind A3 Meta Setups of this Garden d A nATS_Map/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] | 21 Sep 2025 | 10 Feb 2026   | 90 days ago |
+>  | File                                                                                                                              | Created     | Last Modified | Edited       |
+> | --------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------ |
+> | [[Bind A3 Meta Setups of this Garden d A nATS_Map/Uploading Media in my Digital Garden\|Uploading Media in my Digital Garden]] | 21 Sep 2025 | 10 Feb 2026   | 108 days ago |
 > 
 { .block-language-dataview}
 

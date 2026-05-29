@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-b1-esi-and-finance-topics-d-b-link-map/india-s-growth-forecast-predictions-by-s-and-p/","created":"2026-05-10T18:57:30.744+05:30","updated":"2026-05-11T01:42:30.775+05:30"}
+{"dg-publish":true,"permalink":"/bind-b1-esi-and-finance-topics-d-b-link-map/india-s-growth-forecast-predictions-by-s-and-p/","created":"2026-05-10T18:57:30.744+05:30","updated":"2026-05-11T18:05:13.162+05:30"}
 ---
 
 
@@ -47,3 +47,62 @@ Think of India’s economy like a car cruising at 75 km/h on a highway. The Iran
 | **Expert quote** | D.K. Joshi: “Rupee weakening and oil prices rising is a double whammy” |
 
 
+---
+
+# Slide 1 — India’s FY27 Growth Forecast Cut by S&P Global
+
+### What Happened?
+
+- S&P Global reduced India’s FY27 GDP growth forecast from **7.1% to 6.6%**
+    
+- The downgrade is linked to ongoing **geopolitical tensions**
+    
+- India’s economy is still expected to grow strongly despite the reduction
+    
+- GDP growth estimate for **FY26** remains at **7.6%**
+    
+- The revision reflects concerns about global uncertainty affecting economic activity
+    
+
+---
+
+# Slide 2 — Why It Matters
+
+### Why This Is Important
+
+- A lower growth forecast may affect **investment, business confidence, and employment expectations**
+    
+- Geopolitical tensions can disrupt **trade, supply chains, and capital flows**
+    
+- Growth projections influence government planning, market sentiment, and policy decisions
+    
+
+### Key Numbers
+
+- **Previous FY27 forecast:** 7.1%
+    
+- **Revised FY27 forecast:** 6.6%
+    
+- **Estimated FY26 GDP growth:** 7.6%
+    
+
+### Simple Definitions
+
+- **GDP (Gross Domestic Product):** Total value of goods and services produced in a country
+    
+- **Growth Forecast:** Estimate of how much the economy may grow in the future
+    
+- **Geopolitical Tensions:** Political or military conflicts between countries affecting global stability
+    
+
+---
+
+# Q&A Table
+
+|Question|Precise Answer|
+|---|---|
+|Which organization reduced India’s FY27 GDP growth forecast from 7.1% to 6.6%?|S&P Global reduced India’s FY27 GDP growth forecast from 7.1% to 6.6%.|
+|What is India’s revised GDP growth forecast for FY27 according to S&P Global?|India’s revised GDP growth forecast for FY27 is 6.6%.|
+|Why did S&P Global lower India’s FY27 economic growth forecast?|S&P Global lowered the forecast due to the impact of ongoing geopolitical tensions and global uncertainty.|
+|What is the estimated GDP growth rate for India in FY26 according to the report?|India’s GDP growth for FY26 is estimated at 7.6%.|
+|What does GDP mean in the context of India’s economic growth forecast?|GDP refers to Gross Domestic Product, which is the total value of goods and services produced within a country.|
