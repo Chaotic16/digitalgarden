@@ -3,7 +3,7 @@
 ---
 
 
-🕸️[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]]
+🕸️[[Bind A1 Categories in Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]]
 
 
 ## Here's a list of official details important for this Garden
@@ -26,8 +26,8 @@
 
 
 > [!TIP]- Connected Files
->  | File                                                                                            |
-> | ----------------------------------------------------------------------------------------------- |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]] |
+>  | File                                                                                    |
+> | --------------------------------------------------------------------------------------- |
+> | [[Bind A1 Categories in Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]] |
 > 
 { .block-language-dataview}

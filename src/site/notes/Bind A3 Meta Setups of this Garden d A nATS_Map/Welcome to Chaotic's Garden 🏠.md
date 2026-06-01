@@ -3,8 +3,8 @@
 ---
 
 
-🕸️[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]] ,  [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]]
-[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]]
+🕸️[[Bind A1 Categories in Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]] ,  [[Bind A1 Categories in Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]]
+[[Bind A1 Categories in Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]]
 
 Note : Visit [[Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]] to better understand how I am currently working in my Digital Garden.
 # Welcome to Chaotic's Digital Garden 🏠
@@ -50,7 +50,7 @@ Note : Visit [[Properties & Workflow of my digital garden\|Properties & Workflow
 > - My structure is divided into 2. Working on Ideas and Organizing my ideas. 
 > - You can see all my growth log here. [[Bind A3 Meta Setups of this Garden d A nATS_Map/Dataview of my ideas with dates\|Dataview of my ideas with dates]]
 > - My workflow and properties of the Garden are explained here. [[Properties & Workflow of my digital garden\|Properties & Workflow of my digital garden]]
-> - You can go through my [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]] in the Garden here.
+> - You can go through my [[Bind A1 Categories in Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]] in the Garden here.
 > - You can go through the progress log of my garden here. [[Tasks in my Digital Garden\|Tasks in my Digital Garden]]
 > 
 
@@ -79,10 +79,10 @@ Note : Visit [[Properties & Workflow of my digital garden\|Properties & Workflow
 > [!TIP]- Connected Files
 >  | File                                                                                                                    |
 > | ----------------------------------------------------------------------------------------------------------------------- |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]]                               |
+> | [[Bind A1 Categories in Garden d Defender's Spawn_Map/Mem-Clozed\|Mem-Clozed]]                                       |
 > | [[Bind A3 Meta Setups of this Garden d A nATS_Map/Dataview of my ideas with dates\|Dataview of my ideas with dates]] |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]]           |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]             |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]]                         |
+> | [[Bind A1 Categories in Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]]                   |
+> | [[Bind A1 Categories in Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]                     |
+> | [[Bind A1 Categories in Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]]                                 |
 > 
 { .block-language-dataview}
