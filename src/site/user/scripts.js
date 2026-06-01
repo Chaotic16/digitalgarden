@@ -1,43 +1,45 @@
-window.addEventListener("load",()=>{
+window.addEventListener("load", () => {
 
   // convert all <u> to recall spans
-  document.querySelectorAll("u").forEach(el=>{
-    const span=document.createElement("span");
+  document.querySelectorAll("u").forEach(el => {
+    const span = document.createElement("span");
     span.classList.add("recall");
-    span.innerHTML=el.innerHTML;
+    span.innerHTML = el.innerHTML;
     el.replaceWith(span);
   });
 
   // tap to reveal one
-  document.querySelectorAll(".recall").forEach(el=>{
-    el.addEventListener("click",()=>{
+  document.querySelectorAll(".recall").forEach(el => {
+    el.addEventListener("click", () => {
       el.classList.toggle("revealed");
     });
   });
 
-  // create top buttons
-  const controls=document.createElement("div");
+  // create top buttons — guard against double injection
+  if (document.querySelector(".recall-controls")) return;
+
+  const controls = document.createElement("div");
   controls.classList.add("recall-controls");
 
-  const show=document.createElement("button");
-  show.innerText="Show All";
+  const show = document.createElement("button");
+  show.innerText = "Show All";
 
-  const hide=document.createElement("button");
-  hide.innerText="Hide All";
+  const hide = document.createElement("button");
+  hide.innerText = "Hide All";
 
-  show.onclick=()=>{
+  show.onclick = () => {
     document.querySelectorAll(".recall")
-      .forEach(el=>el.classList.add("revealed"));
+      .forEach(el => el.classList.add("revealed"));
   };
 
-  hide.onclick=()=>{
+  hide.onclick = () => {
     document.querySelectorAll(".recall")
-      .forEach(el=>el.classList.remove("revealed"));
+      .forEach(el => el.classList.remove("revealed"));
   };
 
-  controls.append(show,hide);
+  controls.append(show, hide);
 
-  document.querySelector("main")
-    .prepend(controls);
+  const main = document.querySelector("main");
+  if (main) main.prepend(controls);
 
 });
