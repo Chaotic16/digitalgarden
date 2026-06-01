@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-a1-categories-in-digital-garden-d-defender-s-spawn-map/mem-clozed/","tags":["Memory🧠"],"created":"2026-02-12T13:02:12.455+05:30","updated":"2026-02-12T13:26:49.545+05:30"}
+{"dg-publish":true,"permalink":"/bind-a1-categories-in-digital-garden-d-defender-s-spawn-map/mem-clozed/","tags":["Memory🧠"],"created":"2026-02-12T13:02:12.455+05:30","updated":"2026-02-12T13:26:49.545+05:30","dg-note-properties":{"status":["Seedlings"],"tags":["Memory🧠"]}}
 ---
 
 

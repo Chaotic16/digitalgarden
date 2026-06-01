@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-a3-meta-setups-of-this-garden-d-a-n-ats-map/sources-of-digital-garden-and-zettelkasten/","tags":["Digitalgarden🍂"],"created":"2025-09-20T17:57:05.474+05:30","updated":"2026-02-12T12:51:37.639+05:30"}
+{"dg-publish":true,"permalink":"/bind-a3-meta-setups-of-this-garden-d-a-n-ats-map/sources-of-digital-garden-and-zettelkasten/","tags":["Digitalgarden🍂"],"created":"2025-09-20T17:57:05.474+05:30","updated":"2026-02-12T12:51:37.639+05:30","dg-note-properties":{"status":["Forests"],"tags":["Digitalgarden🍂"]}}
 ---
 
 🕸️[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]] 

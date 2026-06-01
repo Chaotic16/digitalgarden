@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-a3-meta-setups-of-this-garden-d-a-n-ats-map/chaotic-s-garden-domain-name/","tags":["Digitalgarden🍂"],"created":"2025-09-12T11:45:34.520+05:30","updated":"2026-03-24T17:51:08.594+05:30"}
+{"dg-publish":true,"permalink":"/bind-a3-meta-setups-of-this-garden-d-a-n-ats-map/chaotic-s-garden-domain-name/","tags":["Digitalgarden🍂"],"created":"2025-09-12T11:45:34.520+05:30","updated":"2026-03-24T17:51:08.594+05:30","dg-note-properties":{"tags":["Digitalgarden🍂"],"status":["Seedlings"]}}
 ---
 
 

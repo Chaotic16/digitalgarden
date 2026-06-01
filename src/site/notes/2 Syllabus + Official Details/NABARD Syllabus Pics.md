@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-syllabus-official-details/nabard-syllabus-pics/","created":"2026-03-17T10:44:59.071+05:30","updated":"2026-03-24T10:03:59.883+05:30"}
+{"dg-publish":true,"permalink":"/2-syllabus-official-details/nabard-syllabus-pics/","created":"2026-03-17T10:44:59.071+05:30","updated":"2026-03-24T10:03:59.883+05:30","dg-note-properties":{"status":null,"tags":null,"Memory Stage":null}}
 ---
 
 

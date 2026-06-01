@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-a3-meta-setups-of-this-garden-d-a-n-ats-map/uploading-media-in-my-digital-garden/","tags":["Digitalgarden🍂"],"created":"2025-09-21T13:20:17.851+05:30","updated":"2026-02-10T19:28:26.376+05:30"}
+{"dg-publish":true,"permalink":"/bind-a3-meta-setups-of-this-garden-d-a-n-ats-map/uploading-media-in-my-digital-garden/","tags":["Digitalgarden🍂"],"created":"2025-09-21T13:20:17.851+05:30","updated":"2026-02-10T19:28:26.376+05:30","dg-note-properties":{"status":["Seedlings"],"tags":["Digitalgarden🍂"]}}
 ---
 
 🕸️[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Digitalgarden\|Digitalgarden]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-b2-regulatory-bodies-topics-d-b-short-map/pfrda-lends-sebi-insider-trading-rules/","created":"2026-05-11T01:36:17.117+05:30","updated":"2026-05-11T01:43:42.191+05:30"}
+{"dg-publish":true,"permalink":"/bind-b2-regulatory-bodies-topics-d-b-short-map/pfrda-lends-sebi-insider-trading-rules/","created":"2026-05-11T01:36:17.117+05:30","updated":"2026-05-11T01:43:42.191+05:30","dg-note-properties":{"status":null,"tags":null,"Memory Stage":null}}
 ---
 
 ### **Simple explanation**

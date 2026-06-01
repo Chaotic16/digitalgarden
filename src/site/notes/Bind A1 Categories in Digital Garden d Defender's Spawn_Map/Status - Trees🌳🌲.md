@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-a1-categories-in-digital-garden-d-defender-s-spawn-map/status-trees/","created":"2025-09-21T21:54:31.699+05:30","updated":"2026-02-10T19:40:19.274+05:30"}
+{"dg-publish":true,"permalink":"/bind-a1-categories-in-digital-garden-d-defender-s-spawn-map/status-trees/","created":"2025-09-21T21:54:31.699+05:30","updated":"2026-02-10T19:40:19.274+05:30","dg-note-properties":{"status":["Trees"],"tags":null}}
 ---
 
 🕸️[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]

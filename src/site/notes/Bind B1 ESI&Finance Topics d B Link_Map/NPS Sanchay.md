@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-b1-esi-and-finance-topics-d-b-link-map/nps-sanchay/","created":"2026-05-11T01:35:45.851+05:30","updated":"2026-05-11T01:43:38.332+05:30"}
+{"dg-publish":true,"permalink":"/bind-b1-esi-and-finance-topics-d-b-link-map/nps-sanchay/","created":"2026-05-11T01:35:45.851+05:30","updated":"2026-05-11T01:43:38.332+05:30","dg-note-properties":{"status":null,"tags":null,"Memory Stage":null}}
 ---
 
 ### **Simple explanation**

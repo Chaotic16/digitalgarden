@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-b1-esi-and-finance-topics-d-b-link-map/electronic-gold-receipts-by-nse/","created":"2026-05-11T01:34:05.397+05:30","updated":"2026-05-11T01:43:25.517+05:30"}
+{"dg-publish":true,"permalink":"/bind-b1-esi-and-finance-topics-d-b-link-map/electronic-gold-receipts-by-nse/","created":"2026-05-11T01:34:05.397+05:30","updated":"2026-05-11T01:43:25.517+05:30","dg-note-properties":{"status":null,"tags":null,"Memory Stage":null}}
 ---
 
 ### **Simple explanation**

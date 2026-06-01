@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-b2-regulatory-bodies-topics-d-b-short-map/sebi-s-securitized-debt-instruments/","created":"2026-05-11T01:33:12.553+05:30","updated":"2026-05-11T01:43:20.798+05:30"}
+{"dg-publish":true,"permalink":"/bind-b2-regulatory-bodies-topics-d-b-short-map/sebi-s-securitized-debt-instruments/","created":"2026-05-11T01:33:12.553+05:30","updated":"2026-05-11T01:43:20.798+05:30","dg-note-properties":{"status":null,"tags":null,"Memory Stage":null}}
 ---
 
 ### **Simple explanation**

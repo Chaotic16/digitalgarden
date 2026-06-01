@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-a1-categories-in-digital-garden-d-defender-s-spawn-map/digitalgarden/","created":"2025-09-12T16:55:39.225+05:30","updated":"2026-02-10T19:28:15.157+05:30"}
+{"dg-publish":true,"permalink":"/bind-a1-categories-in-digital-garden-d-defender-s-spawn-map/digitalgarden/","created":"2025-09-12T16:55:39.225+05:30","updated":"2026-02-10T19:28:15.157+05:30","dg-note-properties":{"tags":null,"status":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-a1-categories-in-digital-garden-d-defender-s-spawn-map/mind-palace/","created":"2025-10-27T16:37:50.166+05:30","updated":"2026-02-10T19:28:18.344+05:30"}
+{"dg-publish":true,"permalink":"/bind-a1-categories-in-digital-garden-d-defender-s-spawn-map/mind-palace/","created":"2025-10-27T16:37:50.166+05:30","updated":"2026-02-10T19:28:18.344+05:30","dg-note-properties":{"status":null,"tags":null}}
 ---
 
 🕸️[[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]

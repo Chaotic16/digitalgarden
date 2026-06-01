@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bind-a3-meta-setups-of-this-garden-d-a-n-ats-map/dataview-of-my-ideas-with-dates/","tags":["Digitalgarden🍂"],"created":"2025-09-12T11:39:13.307+05:30","updated":"2026-02-12T12:49:46.343+05:30"}
+{"dg-publish":true,"permalink":"/bind-a3-meta-setups-of-this-garden-d-a-n-ats-map/dataview-of-my-ideas-with-dates/","tags":["Digitalgarden🍂"],"created":"2025-09-12T11:39:13.307+05:30","updated":"2026-02-12T12:49:46.343+05:30","dg-note-properties":{"tags":["Digitalgarden🍂"],"status":["Forests","Seedlings","Trees"]}}
 ---
 
 
