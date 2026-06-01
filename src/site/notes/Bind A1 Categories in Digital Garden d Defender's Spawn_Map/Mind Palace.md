@@ -24,7 +24,7 @@ We will see how to work around with it.
 > [!SUCCESS] File Information
 >  | File                                                                                        | Created     | Last Modified | Edited       |
 > | ------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------ |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | 108 days ago |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mind Palace\|Mind Palace]] | 27 Oct 2025 | 10 Feb 2026   | 111 days ago |
 > 
 { .block-language-dataview}
 

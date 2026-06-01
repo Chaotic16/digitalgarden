@@ -19,8 +19,8 @@ These are all the ideas that I have been working on from quite a long time. They
 | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]]           |
 | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Mind Palace\|Mind Palace]]                           |
 | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Forests🧶\|Status - Forests🧶]]             |
-| [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Trees🌳🌲\|Status - Trees🌳🌲]]             |
 | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Seedlings🌱\|Status - Seedlings🌱]]         |
+| [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Status - Trees🌳🌲\|Status - Trees🌳🌲]]             |
 
 { .block-language-dataview}
 
@@ -35,7 +35,7 @@ These are all the ideas that I have been working on from quite a long time. They
 > [!SUCCESS] File Information
 >  | File                                                                                                        | Created     | Last Modified | Edited       |
 > | ----------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------ |
-> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]] | 12 Sep 2025 | 10 Feb 2026   | 108 days ago |
+> | [[Bind A1 Categories in Digital Garden d Defender's Spawn_Map/Index of Categories\|Index of Categories]] | 12 Sep 2025 | 10 Feb 2026   | 111 days ago |
 > 
 { .block-language-dataview}
 
